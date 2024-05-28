@@ -1,0 +1,1267 @@
+
+
+DRAFT REPORT
+for
+FORENSIC INVESTIGATION 
+on 
+KENYA PORTS AUTHORITY DEFINED BENEFITS PENSION SCHEME
+
+RBA/RFP/INVESTIGATION/613/1669/2023
+
+Presented to: 
+
+
+
+RETIREMENT BENEFITS AUTHORITY 
+
+Audited by:
+
+Applewood Adams
+5th Floor, Suite 504
+Ngong’ Road, Nairobi
+P.O Box 67603-00200
+Cell Phone: 0723893260/+254-020-2420016
+E-mail: info@matengo-associates.com 
+WEB: www.matengo-associates.co.ke
+
+
+Table of Contents
+
+EXECUTIVE SUMMARY	1
+1.0	INTRODUCTION	11
+1.1	Background of the Project	13
+1.2	Objective of the Assignment	13
+1.3	Scope of the Assignment	14
+1.4	Methodology	15
+1.6	Assumptions	16
+1.7	Limitations	16
+2.0	FINDINGS AND OBSERVATIONS	18
+2.1	Detailed Findings	18
+3.0	SUMMARY OF POTENTIAL LOSS	53
+4.0	CONCLUSION	54
+APPENDICES	56
+Appendix 1: Summary of Evaluation Committee	56
+Appendix 2: Request for Data/Documents-letter dated 12/7/2023	62
+Appendix 3: Joint Venture Agreement	63
+Appendix 4 i): 2017, 2021 & 2022 Audited Financial Statements for KPA Pension Scheme	64
+Appendix 4 ii): 2017 & 2021 Audited Financial Statements for PKF	65
+Appendix 5: Loan Agreement for Shelter Afrique	66
+Appendix 6: Loan Agreement for KCB	67
+Appendix 7:  Phase 1 Apartment Sales Summary	68
+Appendix 8: Phase 2 Sales Summary	71
+Appendix 9(i): Sales Agreement	74
+Appendix 9(ii): List of Sales Agreement	75
+Appendix 9 iii): Average Sales Purchase Price Vs Actual Sales	77
+Appendix 10: Minutes (Dated 06/04/2017, 25/10/2018, & 04/07/2019)	78
+Appendix 11: Summary of Sales Vs Approved Pricing	79
+Appendix 12- Deposits /Purchase Refunds	83
+Appendix 13: Request for Projects Clarification Letter (dated 16th November, 2023)	85
+Appendix 14: Minutes that changed the budget	86
+Appendix 15: Request for Proposal (RFP)	87
+Appendix 16: Appointment Letter	88
+Appendix 17: Amendment to the JVA Letter dated 16th October, 2021 from SDCL to KPA Pension Scheme	89
+Appendix 18: Amendment to the JVA Letter dated 21st October, 2021 from KPA Pension Scheme to SDCL	90
+Appendix 19: Scheme Trustees	91
+Appendix 20: List of Minutes	92
+Appendix 21: Interview Results	93
+Appendix 22: List of Trustees/Staff Interviewed	98
+Appendix 23: Correspondence from Nyiha Mukoma & Company Advocates	101
+Appendix 24: Correspondence from Robson Harris Advocates LLP	102
+
+
+
+
+
+
+
+
+EXECUTIVE SUMMARY 
+The project was initiated to address the growing funding deficit in the Scheme’s financial position over the years. Table 1 of the Scheme’s financial records highlights the deficits from the actuarial valuations between 2006 to 2011. Actuarial valuations are typically conducted to determine the amount that, when contributed consistently by the sponsor and combined with investment earnings, would be sufficient to pay future benefits accruing to the members. 
+As a result of breaching the financing deficit, the Scheme entered into a partnership agreement to develop apartments for sale with Southern Development Company as the developer. The procurement process for the developer was completed in 2006, and the project began in 2009 with phase 1. Despite no tangible reasons for the delay, the trustees proceeded to implement the project in 2009, with an initial agreed duration of 36 months. The developer and the Scheme agreed that the project would be carried out on a joint venture agreement, with the Developer responsible for financing and the Scheme providing land. This arrangement was violated in 2019 when the Trustees secured a loan for the completion of Phase 2.
+ In 2023, an inspection audit by the Retirement Benefit Authority staff revealed that the project financing contravened the provisions of joint venture agreement. As mentioned earlier, the Developer was responsible for sourcing for the project financing as the Scheme(owners) had provided the land. However, the Trustees resolved to secure a loan on the behalf of the project from KCB worth Kshs 1.07 Billion, against the provision of the JVA. This arrangement contravened section of 38 of the RBA Act and the provision of Joint venture agreement clause 15, which had provided that the Developer was to be responsible for the funding of the project. Even though section 19 of the Trust deed mandates the trustees to undertake investment decision on behalf of the Scheme, the RBA management felt that the provision of the Joint Venture Agreement barred the Trustees from securing a loan for the development. As such, this act necessitated the need to invoke section 5(b) of the RBA Act for an in-depth audit to be carried out.
+Evidence gathered from the audit indicates that Scheme leadership abdicated their responsibility to the developers, undermining the intended objectives of the project. 
+From the findings below, it is apparent that the root cause for the mismanagement of the project could be attributed to lack of accountability for financial duties, non-adherence with governing documents, providing incomplete and inadequate records and failure to perform audits at the point Phase 1 was completed. The details of the findings are summarized as per the scope of the assignment below.
+
+
+
+Ref Examination Area (Scope) Key Findings (Financial Impact)2.1.1Analyze books, accounts, and records of the retirement benefits scheme in relation to the project. A number of records were lacking as most of the vouchers availed were scanned copies. 
+In addition to the above, the following records were not availed:
+a) No ledgers. 
+b) Sale agreements for Phase 1 was only 44 received out of 144.
+c)  No budget or any feasibility study report received. The details of missing documents have been enlisted as part of this finding.
+d) Minutes for phase 1 were not availed.
+e) No project master plan was availed.
+f) No regular financial reports availed.
+g) Bills of Quantity Obtain from any current or former trustee, manager, custodian or administrator of the scheme or any officer, employee, or agent thereof, any books, accounts, documents, records, statements, correspondence, minutes, resolutions, returns or other information relating to the project.Interviews carried out for both staff and trustees observed the following:
+a) None of them were aware on the completeness of records for Phase 1 
+b) The staff were not able to access the Shelter Afrique loans statement 
+c) The incompleteness for Phase 2 records could not be explained by the previous staff, as copies of the records were availed to them by the Developer.
+d) The Trustees and the staff were not aware of the transfer of funds to the lawyers account for Phase 2. 
+e) Trustees were involved in the project as part of the technical committee of the Bellevue Development Limited (SPV).
+f) The Scheme relied on the SPV reports, as the basis of monitoring the performance of the project 
+g) The loan from KCB was passed through a resolution of the trustees in February 2019.
+h) The Advisory opinion by the lawyers could have been exploited by the Trustees to suspend the existing agreement 
+i) The trustees could not explain the changes from Triad Consortium to Southern Development Company Limited (SDCL), who never applied for the job. The initial evaluation was on Triad consortium and not SDCL. At the same time SDCL role became minimal with Pinnacle becoming the central player.2.1.2Analyze the contractual agreements and transactions between the developers of the project and the scheme. a) The JVA agreement had the developer responsible for the project financing. However, the trustees went against this provision by securing a loan from KCB, against these terms.
+b) The project varied the units initially from 318 to 342 resulting to expected change in return from Kshs 466 Million to Kshs 544 Million, without varying the joint venture agreement.
+c) The funds from the sale agreements were banked in the lawyers account without taking note of the JVA which had provided that payments to be made in the Project account.
+2.1.3Review the extent of breach of contractual agreements, if any and the financial implications. The following were noted, which could constitute a breach of the JVA:
+a) Delay in commencement of the project thus increasing the project period from 36 months to 10 years.
+b) The lawyers receiving proceeds from sale of apartments without any interest charged on the outstanding amount before being transferred to the Project account. 
+c) No financial implication by the Developer for the delay in completion of the project. 
+d) No early warning document was availed during the audit.
+e) No variation of the Joint Venture Agreement irrespective of the challenges witnessed during the implementation of the project.2.1.4Analyze the contracts/leases between the vendors and the purchasers of the apartments. a) Transfers were received in the lawyers account against the provision of the Joint venture Agreements. 
+b) The lawyers involved in handling phase 1 units received in total 941 in their accounts. We noted that Robson Harris transferred from phase 1, Kshs 35 million to Shelter Afrique, leaving a balance of Kshs 906 million allocated to Nyiha Mukoma & Company Advocates. No interest was accrued on the amount received by the lawyers. 
+c) Phase 2, Robson Harris transferred a total Kshs 155 Million to Scheme accounts, including loan repayment to Shelter Afrique. No interest was charged for the duration they stayed with the money.2.1.5Analyze the costs related to undertaking the project.a) Total expenditure as per PKF accounts was Kshs 1.363 Billion against the transfers from the bank of Kshs 697 Million resulting to a difference of Kshs 666 Million which could not be explained. 
+b) We also noted transfers from the bank of Kshs 697 Million for Phase 1 which was not matched with the vouchers availed of Kshs 652 Million , resulting to a balance of Kshs 45 Million as unaccounted transfers.
+c) The Phase 2 transfers from both the KCB and Stanbic CFC was Kshs 2.534 billion compared to Vouchers availed of Kshs 911 Million resulting to a difference of Kshs 1.171 billion as not availed. Payments to contractors though paid by the bank directly were not supported by the Scheme.2.1.6Undertake a comprehensive analysis of the mode of financing of the project, and any financing arrangement between the developer, the scheme and the financial institutions. a) Phase 1 was partially financed by Shelter Afrique loan. The PKF report on total cost incurred for Phase 1 was Kshs 1.459 Billion, includes work in progress was financed from the sales of the apartment, transfers from the Scheme and the Shelter Afrique loan. 
+b) The Shelter Afrique loan and the interest were not supported with any statements. We noted that the terms of the loan from the Shelter Afrique with regard to defaulting interest was extremely punitive, compared to the normal banking practice 
+c) The Phase 2 total expenditure was Kshs 2.534 billion, including a loan from the KCB and transfers from the Scheme, besides income received from sale of apartments.
+d) The developer and the contractors had arrangements which resulted in to interest payments no agreement to support such outflows.2.1.7Investigate the collection of monies paid in relation to the purchased apartments and the utilization of the funds. a) Phase 1 had Kshs 941 Million was received by the two lawyers. An amount of Kshs 906 Million received by Nyiha Mukoma could not be explained by them, declaring that a statement of the monies received had been forwarded to the current lawyers (Robson Harris). The balance of Kshs 35 Million was received by Robson Harris and was transferred to Shelter Afrique account.
+b)  Under Phase 2, Kshs 163 Million was still outstanding from the total sales executed by the lawyers. An amount Kshs 69 million was still outstanding on the part of the Consultants who offered professional services and had committed themselves to buy some of the apartments.2.1.8Undertake the cost benefit analysis of the project to the scheme. a) The cost benefit analysis shows that the Scheme ought to have invested directly in some of the government securities and corporate bonds, in improving its returns. 
+b) The workings on the analysis confirms that, unless the remaining units are sold in excess of Kshs 18 Million and above, the Scheme is not likely to achieve any of the desired profit earlier estimated in their workings up to Phase 2.2.1.9Identify the profit or loss sharing ratios (if any) in the implementation of the project. a) The profit /loss sharing could not be established at this stage considering that all the units had not been sold.2.1.10Undertake a comprehensive and adequate audit of the accounting records- Vouching tests a) The vouching tests revealed inconsistency with the supporting documents. Vouchers availed from the scanned documents lacked contracts, invoices and in some cases minutes. Phase 1 shows that Kshs 147 Million not adequately supported, while Phase 2, Kshs 609 Million not supported.2.1.11Review the scheme’s policies and procedures including procurement and disposal procedures and in particular, procedures used in identifying the developer and any other provider in relation to the project.a) The scheme did not have documented policies to support their activities in place. 
+b) The tender to select a developer was advertised in 2005, with an evaluation committee put in place to guide the process. Two firms were prequalified for the next phase of the procurement process. 
+c) Villa Care had emerged as number 1 followed by Triad Consortium.
+d)  Triad consortium were awarded the contract with no procurement minutes to justify the final decision.
+e) Triad Consortium later gave in for Southern Development Company Limited to be responsible for the project, with no minutes for such transition 2.1.12Identify any false, forged, or fraudulent documents and accounting entries in the books and records- Consistency of Sales agreements a) There was inconsistency with the sales of apartments within same blocks. Phase 1 had a difference of Kshs 39 Million between sales of apartment from the same block, based on the lowest sale and the average sales per block. No minutes for Phase 1 to support the variations.
+b) Phase 2 had a difference of Kshs 105 Million as the sales were made outside the agreed resolution from the minutes. Phase 2 sales were based on the technical committee resolutions for the apartments. The difference was based on the rate prescribed in the minutes and the actual sale.2.1.13Identify and quantify documentary evidence of suspected misappropriated or loss of funds. a) Refunds were made to purchasers who declined to take the apartment for both Phase 1 and 2. No offer letters or sales contract were attached to support the refunds. Phase 1 had Kshs 13 Million, while Phase 2 had Kshs 38 Million. 
+b) The technical committee had allowed consultants involved in the project to acquire some units. The total amount expected was Kshs 70 Million, of which only Kshs 300,000 had been received. No evidence to support the amount of the professional fee invoiced by the consultants.
+
+The above key findings were attributed to the fact that the management of the Scheme and the Trustees were not involved in offering effective leadership to the project as provided within section 17 of the Trust deed. The Trustees had an obligation to ensure that the project keeps reliable records of all its activities as part of monitoring the performance of the project. Our findings proved that the developer was responsible for all the major decision relating to the project without any guidance from the trustees. This arrangement could have originated from clause 20.1 of the JVA. From the lawyer advisory opinion, one would observe that the trustees’ legal team ought to have provided the involvement of the Scheme in the appointment of service providers. The JVA barred the scheme from being involved in the selection of the service providers and as such the change of the contractor could not be resisted by the Trustees as it would go against the provisions of the JVA. Therefore, the provision of this clause proved that the Scheme leadership abdicated their responsibility fully to the developer. 
+RBA requirements as provided in various sections of the Act lays emphasis on the role of the Trustees in ensuring that the activities of the Scheme including any project are carried out in accountable and transparent manner. The intended objectives are for the outcome of such project to benefit the members of the Scheme and to protect the Scheme funds. From the observation highlighted above, there are a number of recommendations which needs to be implemented by the Scheme as the owners of the project. Some of these recommendations have far reaching effects, as they could results to suspension of the existing JVA arrangement. 
+Some of the key recommendations are as follows:
+a) There is need to review the Joint Venture Agreement emanating from the challenges witnessed in its implementation. The shortfalls witnessed in project financing, records keeping, project reporting, project audits and project internal controls, could point to a situation of the contract having faced frustration. 
+b) The Scheme should involve their legal team to ensure that disclosure of the sales on Phase 1 received by the lawyers Nyiha Mukoma are availed.
+c) The reconciliation for Phase 2 on the number of units which either have their contract not fully executed or the lawyer should be disclosed.
+d) The trustees to prepare decision analysis as to whether it will be economical to sell the remaining units at the current prices or rent them for a longer period until such a time the apartment sales would be favorable within the market.
+e) The differences within the selling prices should be properly accounted and reasons for variation with the minutes adduced to support the selling price. In the absence of any minutes as witnessed under Phase 1, the leadership of the scheme and the developer should be made to account for the potential differences.
+f) The management of the Scheme to fully account for vouchers which were lacking supporting documents, relating to contracts, invoices and minutes.
+g) The differences between the transfers from the bank and the vouchers availed should be investigated and any unsupported documents be surcharged to the individuals responsible.
+h) The unsupported vouchers availed during the assignment should be investigated and any voucher not supported by charged to the individuals involved.
+i) The trustees involved in the procurement process should be made to justify the selection of Triad consortium, and how it later turned out to be Southern Development Limited.
+From the issues highlighted here, RBA needs to ensure that the recommendations provided in this report are implemented by the Trustees of the Scheme. Where need be, RBA should invoke section 53 of the Act to consider surcharging the Trustees for their failure to keep adequate records of the scheme.
+
+
+1.0 INTRODUCTION 
+The Retirement Benefits Authority (RBA) was established under the Retirement Benefits Act (No. 3 of 1997) with the primary goal of safeguarding the interests of members of retirement benefits schemes and promoting the growth and development of the retirement benefits industry in Kenya. Specifically, RBA is responsible for regulating and supervising the establishment, management, and operation of retirement benefits schemes in the country.
+Kenya Ports Authority DB Pension Scheme was established by a Trust Deed dated 1 January 1998. The Scheme is a defined benefit occupational pension Scheme and was formed for the employees of The Kenya Ports Authority ('the Sponsor). The Scheme is governed by a Trust Deed and Rules which have been approved by the Retirement Benefits Authority (RBA). The main purpose of the Scheme is the provision of cash benefits and pensions to the members upon attainment of the retirement age of sixty years, and where applicable, benefits for dependents of deceased members. The Scheme is among the largest Pension Funds in Kenya and is mature. The number of active members above the age of 50 years, pensioners, and deferred pensioners are much greater than the number of younger active members. In the year 2012, the Scheme was closed to new members(entrants). The Scheme is approved by Kenya Revenue Authority as a retirement benefits scheme for the purposes of the Income Tax (Retirement Benefits) Rule No. 4 and is treated as an 'exempt approved scheme' for the purposes of that Act (1st Schedule 14). The Scheme governance is based on a Board of nine (9) Trustees, with three (3) being member elected and six (6) nominated by the Sponsor.
+The Scheme belongs to Kenya Ports Authority (KPA) which is one of the strategic parastatals in the country with the mandate to handle sea imports and exports within the Country and beyond. As sponsor to the scheme KPA was established in January 1978 under an Act of Parliament, KPA with a mandate to manage and operate the Port of Mombasa and all scheduled seaports along Kenya's coastline that include Lamu, Malindi, Kilifi, Mtwapa, Kiunga, Shimoni, Funzi and Vanga. 
+
+The Kenya Ports Authority DB Pension Scheme was established by a Trust Deed dated 1st January 1998. The Scheme is a defined benefits occupational Pension Scheme and was formed for the employees of The Kenya Ports Authority ('the Sponsor). The Trust Deed forms the basis for the Scheme administration. The objectives of the Scheme as laid out in the Trust Deed is the provision of cash benefits and pensions to the members upon attainment of the retirement age of sixty years, and where applicable, benefits for dependents of deceased members. Currently, the Scheme has huge numbers of active members above the age of 50 years as pensioners, and deferred pensioners compared to younger active members. 
+Members contribution to the Scheme is on the basis of its Trust Deed. The 1st Trust Deed which was developed in 1998, under Rule 9 provides that members contributions are pegged at 7.5%, with the Employer contributing 14.7%. The rule further provided circumstances under which a member can increase their contribution beyond the rate provided in the Trust Deed. 
+The Trust Deed gives powers to the Trustees in decision making on matters of investment and hire of professional fund managers to assist in evaluating investment opportunities. In all the Revised Trust Deed versions, the responsibilities of the Board of Trustees are anchored under clause 19, under powers of the Trustees 
+Clause 19, highlights the need for the trustees to employ staff responsible for managing the activities of the Scheme. However, up to the year 2021, the relied on seconded staff from the sponsor. From the year 2021 the Trustees decided to employ their own staff headed by an Administrator, who was yet to be confirmed in his position by the time of this audit.
+In complying with the requirements of the Act under Section 35 of the RBA, the Trustees on yearly basis were involved in carrying out actuarial valuation of their assets. The valuation under Table 1, had indicated a financing deficit in meeting future liability of the members, thus forming the basis for the investment initiatives by the Trustees in breaching the gap.
+Under section 19 of the Trustee deed, the trustees deemed it necessary to undertake an investment opportunity geared towards breaching the financing deficit. 
+The provision of the clause 19, mandated the Trustees to undertake the following: 
+a) To commence, carry on or defend proceedings relating to the Scheme or the determination of any rights of the Members and others therein;
+b) To raise or borrow any sum or sums of money and to secure the repayment thereof in such manner and upon such terms as the Trustees may deem advisable and to charge the sums so raised or borrowed or any part thereof on all or any part of the Scheme; and
+c) To invest any moneys forming part of the Scheme in the purchase of or at interest upon the security of such stocks, shares, securities, properties or other investments of whatever nature and wheresoever as the Trustees shall in their absolute discretion think fit to the intent that the Trustees shall have the same full and unrestricted powers of investing and transposing investments in all respects as if they were absolutely entitled thereto beneficially.
+The clause 19 mandates Trustees to be responsible for investment opportunities within the Scheme, however such responsibility should be carried out in good faith not to contradict Section 40 of the RBA Act on general obligations of Trustees and Management. Section 40 emphasizes the responsibility by the Trustees in ensuring that the management carries out their duties in the best interests of the members and sponsors of the scheme. Failure by the Scheme Trustees to comply with the above section will be considered as a violation of which various provisions of the RBA can be invoked. Section 41 and Section 5B are within the mandate of the RBA management to invoke.
+In fulfilling their supervisory role, the Retirement Benefit Authority staff carried out such an inspection visit to the Scheme. The inspection visit was to establish whether the Scheme has adhered to all matters related to governance and good management practices on financial soundness, reporting and disclosures, investment decisions, member protection and amendments to scheme rules. Following the results of the inspection report, RBA management realized that there were concerns with the management of Scheme which required further in-depth review.
+The RBA report therefore invoked the need for the project to be subjected to a full forensic audit, thus invoking Section 5B of the Act. The primary objective of the forensic audit was to ascertain the extent to which the Scheme trustees have complied with the provisions of the Act, while investing in South C Project.
+1.1	Background of the Project 
+The project was conceived to address the increased funding deficit on the Scheme books over the years. The financial reports under Table 1, highlights the deficits arising from actuarial valuations between the years 2006 to 2011. The valuation was to determine the financing deficit that the Scheme ought to bridge in order to address the gap.
+The deficit under Table 1 prompted the Trustees to come up with alternative ways of bridging the gap. The decision to undertake the Project of South C was conceived in the year 2005, but had to start from the year 2009 to 2021. Our attempt to obtain reasons for such a delay could not be responded too, by the officials who were there by then.
+Table 1: Valuation and the Fund Balance 
+YearActuarial Valuation Financial Statements Actuarial Deficit KshsDeficit (Kshs) 200613,064,090,0004,252,090,0008,812,000,000 200712,909,525,0005,143,525,0007,766,000,000 200813,496,792,0007,467,792,0006,029,000,000 200915,030,327,0008,862,327,0006,168,000,000 201015,727,887,00011,626,887,0004,101,000,000 201116,129,508,00012,241,508,0003,888,000,000 An investment committee was constituted in the year 2005 with an aim of reviewing various aspects of investment opportunities to onboard. The Board of Trustees under Min/23/2005 formed an investment committee to deal with its vacant plots. The committee resolved to carry out a housing project on their two plots in Bellevue and South C. 
+1.2	Objective of the Assignment
+The objective of the assignment was to carry out a thorough investigation in form of a forensic audit within the KPA Defined Benefits Scheme on the South C – Bellevue Project. In line with the TOR, the forensic audit involved examination/review of scheme documents, financial records, with an aim of identifying any mismanagement of scheme funds whether deliberate or fraudulently or otherwise in relation to the project.
+1.3	Scope of the Assignment 
+The scope of the assignment as highlighted in the Request for Proposal (RFP) under Appendix 15 attached was based on the following:
+i) Analyze books, accounts, and records of the retirement benefits scheme in relation to the project. 
+ii) Obtain from any current or former trustee, manager, custodian or administrator of the scheme or any officer, employee, or agent thereof, any books, accounts, documents, records, statements, correspondence, minutes, resolutions, returns or other information relating to the project. 
+iii) Analyze the contractual agreements and transactions between the developers of the project and the scheme. 
+iv) Review the extent of breach of contractual agreements, if any and the financial implications. 
+v) Analyze the contracts/leases between the vendors and the purchasers of the apartments. 
+vi) Analyze the costs related to undertaking the project. 
+vii) Undertake a comprehensive analysis of the mode of financing of the project, and any financing arrangement between the developer, the scheme and the financial institutions. 
+viii) Investigate the collection of monies paid in relation to the purchased apartments and the utilization of the funds. 
+ix) Undertake the cost benefit analysis of the project to the scheme. 
+x) Identify the profit or loss sharing ratios (if any) in the implementation of the project. 
+xi) Undertake a comprehensive and adequate audit of the accounting records. 
+xii) Review the scheme’s policies and procedures including procurement and disposal procedures and in particular, procedures used in identifying the developer and any other provider in relation to the project.
+xiii) Identify any false, forged, or fraudulent documents and accounting entries in the books and records. 
+xiv) Identify and quantify documentary evidence of suspected misappropriated or loss of funds. 
+xv) Provide factual information and/or evidence that can be utilized in support of any possible litigation process.
+xvi)  Identify failure and weaknesses in internal controls. 
+xvii) Provide recommendations and suggest actions to strengthen controls and mitigate future risks. 
+xviii) Verify the title ownership, any encumbrances, and occupancy of the properties owned by the scheme in the same locality whether vacant or otherwise. 
+
+
+1.4	Methodology
+In achieving the objectives of the assignment, the audit was based on the scope of work issued by the client. Our findings have been matched with the scope of the assignment. 
+The audit tests were to ascertain the extent to which the developer had complied with all the relevant financial and management practices.
+Our audit tests were based on the following:
+a) We reviewed the internal controls of the project to obtain an assurance on how the activities were carried out;
+b) Checked if the weaknesses or gaps identified could have led to misappropriation of funds if any;
+c) Carried out substantive techniques such as reconciliations, and reviews of documentation;
+d) Reviewed the completeness of all the records availed against the project activities;
+e) Interviewed staff where possible to provide us with more details which could not be obtained from the records availed; 
+f) Obtained clarification from the Trustees for further information to enable us obtained adequate evidence on the data availed;
+g) Performed vouching tests and analysis of the records availed as to whether they adequately support the activities of the project;
+h) Reviewed all the past reports about the project from the RBA inspection report and PKF project report for both Phase 1 and Phase 2;
+i) Reviewed all the project technical minutes to confirm if all the activities of the project were appropriately approved; 
+j) Reviewed the Scheme minutes to ascertain the extent to which the project activities were sanctioned by the top leadership; and
+k) Carry out cost benefit analysis, on the project against other investment opportunities.
+Diagram 1: Audit Process
+
+
+
+1.6	Assumptions 
+The following assumptions formed the basis of our working:
+1. We relied on general financial management practices applicable in vouching to guide us on the completeness of the records.
+2. We relied Government procurement system, coupled with good procurement practices as the basis for evaluating the procurement practices carried out in the absence of d procurement procedures for the Scheme.
+3. The scheme did not avail physical documents to support its payment vouchers. We assumed the information obtained from scanned copies were true reflection of the actual and that no other documents were in place, apart from those received.
+4. We relied on PKF signed financial statements for the period ended December 2021, in the absence of sales agreement in determining total sales from apartments on Phase 1.
+5. Phase 1 audited accounts by PKF was signed by the Trustees and therefore, we have put reliance on the figures as part of our workings 
+6. We had no lease agreements for the apartments rented, and therefore assumed that any receipts/banking less than Kshs 100,000 were for rental payments mainly Phase 2 units.
+7.  We assumed that Phase 1 banking not received through the official project account were banked in the lawyer’s account as highlighted in the PKF report, and transferred as part of project financing.
+1.7	Limitations 
+There were limitations noted during the assignment as observed here below:
+1) We noted that all units under Phase 1 were all sold. Apart from the amount received in the bank account, the rest of the collections went to the lawyer Nyiha Mukoma could not be confirmed.
+2) There were no technical minutes for Phase 1 and therefore we could not assess any decision made by the team affecting the project, even on the variation on the apartment sales.
+3) No contracts were availed to support payments made by the developer to the contractors in form of loans and interest. We could not authenticate whether such transfers were legitimate or not.
+4) We could not access all the sales agreement for phase 1 as only 48 were availed, out of a total of 144 units developed and fully sold. 
+5) We could not assess the basis of PKF final audited reports as no ledgers supported by vouchers and other payment records were availed.
+6) The Shelter Afrique did not avail loan statements and all the payments made as part of loan repayments and interest could not be established. It became difficult to ascertain the actual loan and how it was paid - Kshs 560 Million and the interest in the PKF accounts of 300 Million. 
+7) No reconciliations were witnessed between the lawyers’ transfers and the project /Scheme with regard to sales agreements. 
+8) Lease agreement for tenants who were paying rent on monthly basis were not availed.
+9) We could not interview a number of trustees, even after placing an invitation request as shown on Appendix 22.
+
+
+
+2.0	FINDINGS AND OBSERVATIONS 
+The section that follows hereunder summarizes our findings on the various aspects that our assignment covered.
+2.1	Detailed Findings
+2.1.1	The State of books, accounts, and records of the Retirement Benefits Scheme in relation to the project. 
+Findings 
+Clause 17 of the Trust deed mandates the Scheme Trustees to keep reliable accounting records. While clause 16 of the Joint Venture Agreement provides that the project developers had a responsibility of preparing the books of accounts. The Scheme as the owners of the project was obligated to ensure that recordkeeping is in line with the Trust deed.
+We have attached our initial request for the documents sought in this audit as part of Appendix 2. We have summarized extract from the status as shown here below:
+Particulars Status a) The bank accounts with no cash books and reconciliations statements were:
+* Stan Bic Account Number 
+Account No. 0100000626982
+* KCB Account Numbers
+Acc. No. 1262181259
+Acc. No.1272344126-COSTS
+Acc. No.1272344029-SALES
+Bank account number No. 0100 00 026947 referenced in one of the minutes was not availed. b) Ledgers – 
+* Ledgers on sale of properties
+* Ledgers on all the materials cost
+* Ledgers on all other construction related cost 
+* Loans Ledgers* No ledgers were availed to support banking transactions. c) Tenancy agreements * The tenancy agreements were held by a firm associated with the developer and no agreement was availed.
+* d) Sale Agreements for the as follows:
+* Phase 1 
+* Phase 2 * Phase 1 only 48 Sales agreements were availed out of 148. Phase 2, 102 Sales agreements were availed out of 198. The balance of 96 units we were made to understand have not been sold. e) Project Budgets 
+* No project budgets were availed except one attached to the Joint Venture contract 
+* The subsequent change was annexed to the minutes dated 19th October 2016 for Phase 2 f) Bills of quantity for the project under Phase 1 and Phase 2* This was not provided. g) Technical minutes 
+* There were no technical minutes for Phase 1,
+* Phase 2 technical minutes were provided though not numbered to ascertain the consistency. h) Contracts with consultants and sub consultants* There no sub consultants’ agreements attached to the payments i) Loan statements * KCB loans statements were availed. 
+* Shelter Afrique Statement was not availed. 
+* Contractor loans and agreements were not availed. j) Trustees Minutes * Provided from 2009
+Key Findings
+The absence of the key records implies that the Scheme Trustees failed to comply with Trustee deed section 17(a). This practice under clause 39(2) of the RBA act should be considered as unsound practice.
+Recommendation(s) 
+a) Failure to avail all the records requested implies that the trustees did not respond fully to the requirements of clause 17, and as such should be held liable for any shortcoming arising from the lack of records.
+b) The Scheme had a responsibility to ensure adequate records are maintained and not the Project Developer. As such therefore, section 53(1)b of the RBA Act should be invoked in ensuring that they bear the responsibility for failure to keep records.2.1.1.1 Obtain from any current or former trustee, manager, custodian or administrator of the scheme or any officer, employee, or agent thereof, any books, accounts, documents, records, statements, correspondence, minutes, resolutions, returns or other information relating to the project.We interviewed trustees and staff for the purpose of confirming their knowledge on the activities of the Scheme with regard to the South C project.
+We have summarized our findings from the interview of both staff and Trustees as per Appendix 21 as follows:
+
+Particulars Findings Current Staff 
+
+
+
+
+
+
+
+
+
+They confirmed the following:
+a) The Scheme had no policies in place 
+b) The SPV committee was responsible in approving of payments. 
+c) A lot of cash payments were carried out up to 2017 with the elapse of phase 1 project. 
+d) Phase 2 sales were supposed to be received directly in the bank and were not aware of some deposit going through the lawyers’ account. 
+e) The Scheme did not maintain a cash book only a register of cheques. 
+f) The records relating to the final decision on the procurement process could not be availed. 
+Caroline Kodo
+a) As the former Scheme Administrator, she was removed as a signatory in the year 2019.
+b) Could not confirm the completeness of documents as they were being approved by the Trustees without her involvement.
+c) The extension of the contract was based on advisory opinion by Kaplan & Stratton.
+d) Asserted that phase 2 books were being maintained within their offices and could not understand the incompleteness of the records. 
+e) The audited accounts of PKF could not be verified in the absence of records for Phase 1. 
+f) The Shelter Afrique loan had no statement was availed to determine the reliability of the interest paid.
+g) The Administrator expressed that the project should have been subjected to a thorough audit before it continues.
+Tsuma Mwanza
+a) As accountant he had a responsibility in preparing the books.
+b) He relied on the financial statements from the projects as no records were availed. 
+c) Could not avail any reconciliation of the bank statements. 
+Summary of findings 
+a) The records were not y maintained by the Scheme during the project period. 
+b) The Scheme did not prepare a separate report from the SPV reports.
+c) The former staff were involved in approval of the payment and were unable to confirm the completeness of the records. 
+d) There was no proper handing over to the new team thus impacting on their ability to respond to the concerns raised during the audit.
+Recommendation
+a) The previous staff should be made responsible for lack of information relating to the project. 
+b) The current staff ought to prepare new records based on the information within their disposal, rather than rely on the developer.
+c) A handing over report should have been prepared.Former Staff Trustees 
+Salim Juma- Former trustee and chairman
+Paul Mwaka
+Alex Ole Leteipan
+Ferdinard Malumbo 
+We managed to interview four trustees out of the list attached. The request was circulated to the trustees as per Appendix 22 
+The summary of the interview was as follows:
+a) Apart from Alex who first joined the Scheme in the year 2005 to 2011 and rejoin again 2017, all the other trustees interviewed were present from 2017 to 2021, before they exited 2023.
+b) None of them could help us understand the details relating to the procurement.
+c) The Trustees were in agreement that the project was a good one in terms of helping the Scheme achieve its goals. However, the resistance from the Developer in an attempt to revise the terms the contract after being involved with KCB loan complicated the initial goal of achieving profits. 
+d) The idea to discontinue with the contract was discouraged after the Trustees obtained an advisory opinion from the Scheme lawyers. 
+e) The Scheme advisory opinion was more legal and did not consider the financial implication before the second phase was commenced. 
+f) The board was involved in the review and monitoring of the project through regular meetings by the SPV board. 
+g) The Board members were not aware of the disparity between the prices set by them and the eventual sales carried out as witnessed from the transfer contracts under Phase 2.
+h) The project from onset should have been carried out by the Scheme and not as a joint venture 
+i) The procurement for the project was carried out in the year 2005, yet the project started in the year 2009, no comments was received from the trustee on the delay and whether it could have impacted on the project execution.
+j) The trustees passed a resolution to secure a loan from KCB, as the developer wanted to rely on the title deeds for the Scheme to secure a loan from Equity bank.
+k) The trustees could not respond to the reasons that SDCL became dormant and all the activities led by Pinnacle.
+
+
+
+Summary of the findings:
+a) The trustees should have discontinued the project in the year 2019, before securing a loan from KCB on the basis of the contract facing frustration as alluded by the lawyers. 
+b) The trustees allowed the developer to comingle the project activities by getting involved in activities for phase 2 which had not been started before confirming profitability of phase 1. 
+c) The trustees lacked the support of a competent person as a project manager responsible to the Scheme to enable them obtain first-hand information from their own person, as relates to issues such as units sold against the disparity with the prices agreed earlier. 
+d) The Trustees as witnessed in other sections of this report violated the JVS and continued to work with it after securing a loan from the KCB.
+e) The trustees were not aware of their role in observing section 17 of the Trust deed.
+f) The trustees did not follow the Project Developer with regard to status of the units not sold and whether the rent was fully received in the project accounts or not 
+g) Minutes of the Trustees number 205 of February 2019, gave a decision to secure a loan from KCB. However, the details from the minutes did not provide the circumstances that led to the Scheme’s involvement in the project.
+Recommendations 
+a) The trustees should have taken a proactive role to ensure that the advisory opinion have been honored, where the lawyer had suggested that the contract could be terminated under special condition on the basis of frustration. 
+b) The trustees should have revised the JVA immediately they secured a loan from KCB, as the process violated the JVA. 
+c) The Trustees ought to have sought financial advice in addition to the legal advice on the financial implication. 
+ 2.1.2	Review of contractual agreements and transactions between the developers of the project and the scheme. 
+The Joint Venture Agreement was signed in month of February, 2009, as the basis of the contractual obligations as per Appendix 3 (Joint Venture Agreement). We noted the following on the implementation of the key clauses on the Joint Venture Agreement:
+Relevant Issues on Joint Venture Agreement Comments/Gaps Noted Section 6.1 of the Joint venture agreement guaranteed the Owner a return of Kshs 466 Million as the total payback to be earned by the Scheme.a) There was no feasibility study carried out to support the budget annexed to the contract. 
+b) There was a revision of the project return to Kshs 544 Million without the contract being revised. This revision was not supported with any feasibility study (Appendix 14 – Minute that changed the budget). The Joint Venture Agreement under clause 4 provides for estimated 36 months for the two phases from the start date of July 1st 2009 and was expected to be completed on 31st March 2012.a) There were changes in the project development period from 36 months (3 years) to 10 years. There were no penalties on the part of the developer for the delay in completing the phases.
+b) No in-depth analysis on the cause of the delay was provided before the second phase was allowed to proceed.Clause 11.2: The contract had provided for regular reporting on the project activities to be made to the owner on monthly basis.a) No financial reports were availed separately, except that they were attached the monthly minutes.
+b) Phase 1 had no minutes availed, and as such sales returns could not be corroborated.The clause 3.1.2 of the contract provided that the Developer was to be responsible for outsourcing of funds.a) The Trustees during the project period signed a loan agreement dated 23rd July, 2019 with KCB bank of Kshs 1.078 Billion, even though the minutes had made references to Kshs 1 Billion., the amount later was enhanced to Kshs 1.07 Billion. The acquisition of the Loan contravened the provisions of the Joint Venture Agreement.
+b) The KCB loan was disbursed directly to the contractors based on their certificates.Sect 12.3 emphasis that the Developer to ensure that sums paid by prospective purchasers are immediately banked in account to be controlled by the owner (the project account).
+Sect 15.1: The owner shall open and operate a project account in a bank account to be agreed upon by parties. All monies received from sale agreements and community center shall be banked in the project account.a) The Developer and the Owner opened a joint account at Stanbic bank of which all the transactions relating to purchase of the apartments ought to have been banked. The bulk of phase 1 purchases as highlighted in the report were transferred to the Lawyers of the Developer (Nyika Mukoma), and Robson Harris for some few apartments.
+b) The phase 2 also had a number of purchasers channeling their payments to the law firm of Rob Harrison and some to the Bank account directly.Sec23.1The developer from time to time and preferably monthly basis and as circumstance warrant hold meetings. The business shall review the plans for the remaining work and to deal with matters raised and pertaining with the execution of the project a) There were no minutes provided for phase 1.
+b) Phase 2 provided minutes between the period 2016- 2019 totaling 48 minutes as per Appendix 20 (List of Minutes). The minutes were carried out under the Bellevue Development Limited, while the decision and the funds were effected from the project account.Section 2.4.3 The owner return shall not be affected with change arising from early warning given by the developer a) As mentioned earlier no feasibility study was carried out. However, revised return is annexed to the minutes under Appendix 14. An attempt to revise Joint venture agreement did not go through as some of the changes with regard to the valuation of the land could not be agreed by both parties - noted in Appendix 17.Clause 26: The Developer's Compensation shall be the Developer Fee hereinabove defined and shall include all fees payable to the Developer, consultants, sub-consultants, contractors and subcontractors and any costs of financinga) The payments were supposed to be supported with contracts and certificate of completion. We noted as per the list of questionable costs that a number of payments to consultants were not fully supported with contracts.
+b) The developer fee was part of the project cost. This remained contentious as the developer was assured of their payments irrespective of the performance of the project. These could be witnessed from a letter to the Developer under Appendix 18.Clause 27: Payment of the Developer Fee and the Owners Return shall be made from the Project Account and specifically it shall cover:
+* Amounts due to the Contractor or as certified from time to time by the Project Manager; Architect;
+* 27.1.2 Amounts due to the consultants and sub-consultants/ contractors in
+* accordance with the Fee Notes presented to the Developer for work done,
+* 27.1.3 Amounts due to the Owner for the value of the land which value shall be recovered together with the Developer Fee from time to time during the life of the Project.
+* 27.1.4 Payments to the Owner on account of the realized profit and any unpaid portion of the Owner's Return.
+* 27.1.5 Payments to the financier of the Project of monies advanced to the
+* Developer for the carrying out of the Project including such interest as shall be due from time to time to such financier.a) The implication of the provision of this section is that all monies payable by the developer should have been channeled through the project account. All forms of payments must be properly accounted from the project account. The Shelter Afrique loan statements ought to have been availed to satisfy whether this condition was met or not. The repayments/ transfers were witnessed from the Lawyer – Robson and also from Stanbic accounts totaling to Kshs 181 Million, which could not be confirmed from a statement perspective.
+b) Payments to contractors and even financiers under Phase 1 were not adequately supported. The payments under Phase 1 were passed from the Lawyer and the Scheme had no records to support availed.
+Section 30: If on the finalization and preparation of the final accounts, there is a profit that is realized, the said profit shall be shared between the owner and the developer at 60%: 40%.a) This section will be realized at the point the contract comes to the end. The sharing ratio was based on the various roles that each party was to play. With the revised responsibility of sourcing for funds carried out by the Owner, an attempt to revise this clause had not succeeded as per Appendix 17.
+b) We could not establish the basis for the sharing ratio, as the developer continued to earn their project fees. The ratio 60: 40% would be based on the extent of risk that each party was to meet.
+Key Findings 
+a) The project terms were changed without a revised Joint Venture agreements 
+b) The Scheme secured a loan for the project without providing reasons for it and contravening the joint venture agreement, yet the sharing ratio was not varied.
+c) The agreement had highlighted that all purchases were to be banked in the project account. We could not establish the source of this variation of the contract as some transfers were made in the lawyers’ account.
+d) The transfers to the Shelter Afrique could not be confirmed from the statements
+Recommendation(s)
+a) There was notable violation of the Joint venture agreement signed in the month of February, 2009. The Trustees in contravention of Section 38 of RBA Act secured a loan for the project. The trustees should be held accountable for loss of income as a result of the loan amount of Kshs 1.579 Billion owed to them. 
+b) The Scheme trustees and the Developers ought to sign an amended contract, if possible or completely suspend the existing arrangements 
+c) The Scheme trustees allowed the sales of the apartments to be banked in the project Lawyer’s account (Nyika Mukoma) and Rob Harrison. Transfers to the lawyers account should be subjected to interest rate charged by the bank on the Project.
+d) Transfers to Shelter Afrique should be confirmed with the availability of loan statements.
+
+
+
+a) Transactions between Developer and the Scheme
+i) Transfers to the Projects 
+The Scheme did not have individual ledgers to support transfers to the South C project. This raised a lot of doubts on the amount owed by the project. The project financial statement based on the PKF report for the year October 2021, when compared with the Scheme Audited accounts for the period December 2021 had variances explained below. The KPAPS Financial Statements attached for the years 2017, 2021 and 2022 and the PKF signed Audited accounts as per both 2017 and 2021 as Appendix 4(i) and 4(ii) are explained here below.
+Table 2: KPAPS Audited Financial Statement Balance between 2017 to 2022
+Year Audited Financial Statement Balance 201792,440,00020211,975,740,14820222,284,765,277PKF audited financial statement for the period covering 2009 to December 2017, shows the project was owed by the Scheme of Kshs 15 Million, while the Scheme financial statements for the year 2017 had an amount of Kshs 92 Million as the total debts owed to them from various projects accounts.
+The draft report by PKF for the year 2921 shows that the project owed the Scheme Kshs 1.099 Billion as at October 2021 while the Scheme Audited accounts as at end of December 2021 shows that all of their projects owed them Kshs 1.975 Billion. We could not verify the basis of the Scheme financial statement balances, as it included all its projects.
+By end of December 2022, the Scheme provided their workings which shows that the project owed them Kshs 1.562 Billion, while from our workings as summarized below, we have noted that the amount should have been Kshs 1,579 Billion. 
+Table 3: Debt Receivables
+Particulars Kshs (Project Records based on audited accounts)Audited financial statement (Kshs)Comments February 2009 to December 201715,327,414(DR)92,440,000(DR)- December 2017Amount owed to the project, while the Scheme shows amount owed to themJanuary 2018- October 20211,099,080,698(CR) 1,975,740,148(DR) Amount owed to the Scheme 
+In addition to the above, we have provided under table 4 of our working on how much the Project owed the Scheme as at December 2022 from the records availed.
+Table 4: Project Loan Account with the Scheme
+ParticularsAmount (KES)Payments Loan Principal Repayments 1,078,052,681.82 Loan Interest Repayments 211,344,465.35 Bank fees  64,440.00 Appraisal Fees 16,500,000.00 Excise Duty 3,300,000.00 Site Inspection  144,000.00 Interest Accrued  37,091.68 Total Payments from KCB Account 1,309,442,678.85 Banking’s Sales from Apartments including transfers by the Lawyers  513,547,000.00 Interest earned from Fixed Deposit KCB  40,890,485.65 Transfers from Stanbic Account 35,020,537.90 Total Banking’s to KCB Account 589,458,023.55 Net Injections from KPA to KCB Account 719,984,655.30 Transfers from KPA to Stanbic Account 1,107,189,334.25 Transfers from Stanbic Account to KPA (247,500,000.00)Net KPA Injections to Stanbic Account 859,689,334.25 Total Potential KPA Injections to the Project 1,579,673,989.55 The outstanding balance as per the KPA Scheme Working 1,562,573,258.5
+Key Findings
+a) The Scheme did not maintain ledger balances for the funds transferred to the project.
+b) The difference witnessed between the KPA ledger and our working of Kshs 17 Million 
+c) The net balances do not include any form of interest charged by the Scheme in the final statements.
+Recommendation(s)
+a) KPA Pension Scheme needs to reconcile the amount disbursed to the project from the bank account and the balances reflected in their records 
+b) The Loan amount should be subjected to interest based on the existing lending rate, after obtaining a thorough reconciliation of the balances 
+c) The trustees involved in the loaning to the project should be surcharged for unsound practice, as this was not anticipated for at the commencement of the project. 
+ii) Loan Balances
+The project acquired two loans during the period. The first loan from Shelter Afrique was with the Southern Development Limited of which the details of the payments or the ledger was not availed during the exercise.
+Shelter Afrique Loan 
+We noted two agreements between Shelter Afrique and Southern Development Limited of Kshs 375,000,000 the first loan and Kshs 185,000,000 the second loan on Appendix 5 (Loan Agreement for Shelter Afrique). We noted the following terms from Shelter Afrique loans agreement of which we noted some terms being unfriendly to business:
+a) Basic Interest: Borrower shall pay to SHELTER-AFRIQUE interest on the Loan at a fixed rate of Fifteen decimal Five percent (15.5%) per annum.
+b) Default Interest: The Borrower shall pay default interest at the rate of the basic interest plus 50% of the said basic interest per annum during the default period in respect of such amount due and unpaid.
+Table 5: Loan Agreement for Shelter Afrique
+Observation on the Loan Comments Total Loans of Kshs 560,000,000Only Kshs 94,500,000 payments was witnessed as the transfer from the Stanbic account. From the final accounts of PKF the loan account was fully paid. Finance Cost The PKF Accounts provided Finance Cost of Kshs 300,741,643. Only Kshs 20,000,000 was noted to have come from the Stanbic account as interest 
+Key Findings:
+a) In the absence of loan statement and the ledgers supporting payments from the Shelter Afrique account, it remained difficult to ascertain payments made on this account and how they were used.
+b) There was huge interest payment of Kshs 300 Million on a loan amount of Kshs 560Million 
+c) The Scheme paid up to Kshs 181 Million from the Lawyers transfers and the bank account, with no statement availed to confirm the actual payment.
+d) Interest rate from defaulting was extremely punitive 
+Kenya Commercial Bank Loan
+The loan was entered by the Scheme as opposed to the provision of the Joint Venture agreement which mandated the SDCL to be responsible for sourcing for funds as per Appendix 6 (Loan Agreement for KCB). The loan was expensed on the basis of the certificates issued by the contractors. Table 6 below has summarized the various areas in which the loan was used against. The award of the loan was approved by the Minutes number 205 of February 2019. The minutes did not provide the circumstances leading to the loan, even though it highlighted a number of outstanding payments to contractors.
+The KCB key loaning agreements were as follows:
+* Facility Term: Thirty-six (36) months > interest shall be serviced monthly on drawn and outstanding amounts.
+* >one (1) month’s interest shall be waived if the borrower requests to fully repay the facility before the expiry of the term.
+* Interest: 13% (being CBR plus a variable margin of 4%)
+* >the current CBR as determined and published by CBK is 9% per annum.
+* Default rate: 10% per annum over and above the then subsisting rate of interest payable
+* Facility Fees: Non-refundable appraisal fee KES 16,500,000 (1.5%) of the facility
+* >20% government excise duty on appraisal fees KES 3,300,000
+* >Stage inspection fee of KES 20,000 and additional KES 4,000 being 20% excise duty
+* VAT: All sums payable by the borrower to the bank shall be paid together with any VAT or other taxes and duties payable
+Table 6: Loan Agreement for KCB
+Particulars Amount Owed (KES)  Amount Paid (KES) Loan Principal 1,078,052,681.82  1,078,052,681.82 Bank Fees 12,600.00  12,600.00 Interest   211,288,578.40   211,284,598.45 Penalty Interest 43,286.95  47,266.90 Total 1,289,397,147.17  1,289,397,147.17 
+Key Findings
+a) The KCB loans was repaid from the Scheme accounts and therefore forms the basis of the debt owed to the Scheme 
+b) The loan by the Scheme contravenes the Joint Venture Agreement as alluded earlier. 
+Recommendation(s)
+Shelter Afrique 
+a) The payment of the Loan and interest to Shelter Afrique should be verified as no records were availed to support the details of payments and how the amount was directed to the project.
+b) The Scheme trustees should have been involved in negotiating for the terms of the Shelter Afrique loans 
+c) The developer and the Scheme trustees should ensure that payments made from the account to the Contractor are disclosed and supported.
+d) The Shelter Afrique loan interest was excessive and therefore SDCL should be made to account for all the payments and the delay in meeting the loan terms, since the Kshs 300 Million, was far beyond what was anticipated in the initial funding budget.
+Kenya Commercial Bank 
+a) The Trustees should have ensured that, with acquisition of the loan the JVA terms ought to have changed first before getting engaged With the JVA terms not changed they should be held responsible for any loss on the amount spent by the Scheme to redeem the loan.2.1.3	The Breach of Contractual Agreements, and Financial Implications. 
+As part of the review of this contract, we compared the Joint venture agreement with the template of construction contract under the Joint Building Council contracts. We noted differences in some of the areas which could have necessitated the scheme management to take leadership.
+On the basis of the current contract, we noted areas of concern which could have had a financial impact on the project. The review took note of the joint Venture Contract that was signed on -27th February,2009.
+Provision of the Contract Comments Financial Implication Extension of Intended Completion Date Section 22.2: If the Contractor has failed to give early warning of a delay or has failed to cooperate in dealing with a delay, the delay caused by such failure shall not be considered in assessing the new (extended) Completion Date.There was no document prepared in advance to indicate early warning on the implementation of the project. As such, the developer through the contractor violated this section.
+There was no variation as required under Joint Building Council. 
+The variation of the contract was materials that altered early expectation and design of the project. No independent opinion was sought by the owners.Increased project cost from the Initial budget of Kshs 2.374 Billion to the revised budget of Kshs 4,535 Billion.
+Interest on the new loans from KCB of Kshs 221 Million came in and the interest from the loan by KPAPS up to October of 157 Million was added to the project cost. 
+Section 22.1, state that the period of the contract can be extended with the approval of the Owners. The reasons for the variation should be within the Joint Building Council or the Developer/taking additional steps to conclude or finish the work Early Warning clause 24The Developer shall be required to provide an estimate of the expected effect of the future event or circumstance on the Contract Price and Completion Date. The estimate shall be provided by the Developer as soon as reasonably possible.
+The Developer to provide an estimate of the expected effect of the future event or circumstance on the Contract Price and Completion Date. The estimate shall be provided by the Contractor as soon as reasonably possible.No early warning was provided and documents as part of this contract. Lack of early warning affected the completion date thus affecting the total cost of the project. Due to delay, the project minimum return is likely not to be achieved as witnessed from the Cost benefit analysis.Number of units and guaranteed Returns Section 6.1.2 Had provided for a total cost of Kshs 2,374,982,280 as the total cost of the project, with expected return of Kshs 466 Million inclusive of the value of the land at Kshs 160 Million. The profit was to be based on 318 Units of which phase 1 was 144 and phase 2 was 174.
+The guaranteed returns were Kshs 544 Million The contract was varied, of which the revised working was to have guaranteed return increased to Kshs 544 Million.Variation of the sales prices as per the minute guideline has resulted to Kshs 105 Million under Appendix 11 (Summary of the Sales against Approval pricing).
+Sect 4: Commencement and duration The project took longer compared to the period highlighted under this section on the JVA The delay in completing the project impacted on the returns expected to be earned.This was witnessed from the increase in cost mentioned above. Collection of the sale agreement Clause 12.3 states that the developer shall ensure that all sums paid by prospective purchasers is immediately banked in account or accounts controlled by the owner (project account) and Clause 15.2 on the same.
+The Contract was quiet on the reliance of the Lawyers receipting of sales monies.A number of units were sold through the lawyers of which no reconciliation was provided with the actual deposit made in the bank.Kshs 941 Million was received through the Lawyers under phase 1. This has impacted on the reliability of payments that did not go through the bank account.
+Under Phase 2 – Kshs 163 Million is not yet fully accounted for as explained by the lawyers by end of December 2022 
+Key Findings:
+a) The extension of the project impacted on the profit estimate as witnessed from the cost benefit analysis working.
+b) The developer was not tasked to provide reasons for delays which had consequences on the project.
+c) The variation of the activities took place without varying the contract.
+d) Variations of the contracts was accepted without any independent valuation.
+Recommendations
+a) The Trustees ought to vary the Joint Venture Agreement based on the circumstances witnessed within the clauses highlight here to give them the opportunity to manage the project by selling all the remaining units.
+b) The collections made through the lawyers needs to be justified as explained in other parts of this report.
+c) An independent valuation by registered valuer should be carried out to justify the cost of the project and whether the changes mentioned earlier were justified.2.1.4	Review of the contracts/leases between the vendors and the purchasers of the apartments. 
+The apartments were finished in two phases 1 and phase 2. The sales agreements for the two phases were handled by different lawyers, the first being Nyiha Mukoma for all 144 apartments. The second phase agreements were executed by Rob Harrison legal firm, of which 102 apartments had been sold up to the cut off period for this assignment. Nyiha Mukoma contract was terminated at some point thus resulting to Robson Harris being also involved in Phase 1.
+The sales agreement was candid on the receipts of funds and therefore did not allow Lawyers received any monies from the purchasers. 
+Particulars Details Comments Payments Payments terms were specific and were to be made within a defined period. Clause 3.2 under Rob Harrison and Clause 6 gives definite period under which the payments should have been made The implication on these clauses is that final payments for the apartments ought to have been concluded at the point of the audit as at 31st December, 2022.Bank Account 
+The sales agreements were specific to the transfers to the respective accounts of the projects as stated here 
+Phase 1: Stanbic Bank - Mombasa
+Acc No: 0140077468502
+Swift Code: SBIC KE NXA
+Phase 2: Stanbic Bank
+Acc No: 100000626982
+Code: 3100The Phase 1 purchases were made through the advocate firm Nyika Mukoma and Ronson Haris of which Kshs 943 Million were received by them.
+Phase 2 Rob Harrison received and transferred Kshs 190 Million of which phase 1 was Kshs 35 Million, the balance from Phase 2. Termination of agreement
+All the agreements were specific on the termination of the transfers.
+Phase 1 agreement under Clause 14
+If no deposit is received as indicated in clause 6(a) the offer automatically lapses.
+Clause 17, breach of agreement shall attract 50,000.
+Phase 2 -sales agreement under clause 5
+5.1 (In case purchaser fails to comply with the obligations of the agreement, 21-day notice in writing will be done by the vendor for compliance.From the Vouching, we noted that refunds were made without attaching relevant supporting documents.
+Key Findings:
+a) The Scheme and the Project violated the section of the Joint venture agreement as provided above by allowing purchasers to make payments through the lawyers account.
+b) The lawyers were culpable for accepting transfers by the purchases instead of directing the funds to the project account.
+c) There was no provision on the duration that the lawyers were supposed to transfer funds held by them on behalf of the project 
+d) Refunds were to be supported by either sales agreement or offer letters.
+Recommendation(s)
+a) The Trustees and the Developer should be made to account for the transfer of payments made to the Lawyers account. 
+b) The lawyers should be surcharged with interest on the delay in transferring the collections made to them to Project as it was not part of the agreement.2.1.5	Analyse the costs related to undertaking the project. 
+The assignment reviewed both the banking’s and transfers in form of payments from the bank account against the vouchers availed 
+Activity Phase 1
+We reviewed payments vouchers from 2009 to 2017 December with regard to Phase 1, and reconciled with the payments made from the bank. From the PKF audited accounts, we witnessed total expenditure of Kshs 1,363 Billion, as the amount incurred. 
+We summarized all the transfers in form of payments from the bank to suppliers add direct payments in form of loans or potential transfers as witnessed here from the lawyer’s account to determine the total outflow from project on both Phase 1 and 2
+Cash Flow Reconciliation was as follows:
+Table 7: Cash Flow Reconciliation 2009-2017 – Phase 1
+Particulars  Bank Transfer in from both Sales and KPA Scheme 697,671,495.70Less:  Purchase Refunds 3,358,760.00Deposit Refund – KPAPS9,163,056.00Overpayment refund 580,000.00Contra 7,136,555.50Transfer to KPA Pension Scheme 177,000,000.00Total 197,238,371.50Payments Transferred to Suppliers 500433124Add: Transfers from Shelter Afrique Loan  1st Loan 375,000,0002nd Loan 185,000,000 Add: Sales of Apartment through the Lawyers account See 2.1.7906,793,619.35Add2,164,465,114.85Total Before Loan Repayments N/B: We are assuming that all the monies to the lawyers were transferred to the project 
+
+Key Finding:
+a) We have added Shelter Afrique loans to the transfers.
+b) The amount transferred as remitted by the lawyers is based on the amount collected by the Lawyers. 
+c) The actual cost for phase of Kshs 1,363 Million was higher than the expected averaged to Kshs 1,075 Billion for Phase 1 project 
+d) The Interest on Shelter Afrique was Kshs 300 Million which was beyond the budgeted interest cost for the whole project.
+
+Recommendation(s)
+a) The trustees need to justify the variance of Kshs 300 Million from the budget 
+b) The transfers from the lawyers to the Contractors if that was the case should be verifiable.
+c) The cost for phase was higher that the budget and should have been investigated before commencement of phase 2
+2. The Scheme records Vs the Financial Statements by PKF 
+PKF accounts during the period ended December 2017 is summarized here below:
+Table 8: PKF Accounts Summary
+ExpenditureKshsConstruction cost859,424,892Finance cost300,741,643Other professional costs and incidental costs169,663,724Travel. Meeting and allowances 	33,207,857 Total 1,363,038,116.00
+In addition to the above, we noted that the total cost of PKF financial statement of Kshs 1.363 Billion was not fully supported by both the transfers from the bank and the vouchers. The transfers from the bank were totaling Kshs 697, while the vouchers were Kshs 652 Million.
+We further noted a difference between the scanned copies under Table 9 of Kshs 652 Million and total transfers from the bank of Kshs 697 Million resulting to a difference of Kshs 45 Million.
+Table 9: A summary of Scanned Payments Vouchers 
+Payment Category Amount (KES) Audit Fees 2,598,882.00 Bank Charges  48,298.00 Cleaning Services 3,292,528.00 Clerk of Works 3,495,000.00 Commission on Sales 32,035,380.95 Construction Costs 136,753,311.53 Loan Principal and Interest Repayment 172,564,603.84 Land and Rates 4,463,802.00 Marketing Costs 12,009,541.00 Meeting Expenses 17,145,571.00 Other Costs 88,955,302.50 Postage and Delivery 120,599.16 Printing & Stationery 646,700.00 Professional Fees 66,680,840.00 Purchase Refund 4,208,760.00 Deposit Refunds 6,948,056.00 Rent Deposit Refund 2,046,000.00 Security Services 2,371,287.00 Service Charge 408,000.00 Water and Electricity 4,655,310.00 Transfers 90,500,000.00 Insurance 321,247.00 Total 652,269,019.98 
+
+Key findings were are as follows:
+a) The actual expenditure incurred could not be determined in the absence of reliable supporting documents
+b) The vouchers availed were less than PKF total cost with Kshs 665 Million.
+c) The breakdown of the finance cost highlighted as part of the PKF accounts of Kshs 300 Million could not be ascertained.
+d) The transfers from the bank and the vouchers had a difference of Kshs 45 Million 
+Activity Phase 2:
+We noted the transfers from the bank account during the period January 2018 to December 2022 as follows:
+ Particulars  KshsStanbic Account 1,165,178,459.00 KCB Account  1,148,065,791.00 Total 2,313,244,251.08 
+As witnessed from the table below, the total transfers from the bank compared with the vouchers availed had a difference of Kshs 1.17 Billion as unaccounted. We are aware that the Phase 2 payments were made directly to contractors and therefore the Scheme ought to have had similar records with them.
+
+Particulars KshsTotal amount Transfers from the bank 2,313,244,251.08  Less: bank Interest 211,381,557.03Bank Charges64,440.00Loan Appraisal Fees16,500,000.00Excise Duty3,300,000.00Site Inspection144,000.00  Total 231,389,997.03  Net Balance for supplier payments 2,081,854,254.05  Payments backed with Vouchers (Table 10)910,695,389.50  Payments not supported by Vouchers 1,171,158,864.55
+
+
+
+
+The vouchers availed irrespective of their status was up to Kshs 910,695,389.50, were summarized as follow:
+Table 10: Total Vouchers Availed
+Summarized ExpensesKshs AmountsAdministrative Expenses Total22,123,086.34Construction Costs Total580,331,364.47Debit Notes Total9,817,797.00Deposit Refunds to Purchasers Total38,505,612.00Financing Costs-Construction Total71,800,008.69Financing Costs-Overdraft Total4,767,619.00Income Tax-Expense Total35,337,183.00Legal Fees Total13,458,690.00Marketing Costs Total29,856,759.00Professional Fees Total88,447,158.00Refund of Over Payment Total580,000.00Related Party Borrowed Funds Total487,670,258.52Sales Commission Total16,039,719.00Uncategorized Expenses Total210,393.00Less1,398,945,648.02Refund of Over Payment Total-580,000.00Related Party Borrowed Funds Total-487,670,258.52 -488,250,258.52Total Payment of Project Costs910,695,389.50
+Key Findings:
+a) The expenditure had no supporting documents.
+b) The vouchers availed were less than the transfers from the bank account.
+c) The transfers from the bank account were not reconciled by the management with the vouchers. 
+d) The PKF financial statements which was not signed had interest payable to KPAPS of Kshs 157 Million of which the basis of computation could not be confirmed in the absence of any agreement availed with SDCL. 
+e) The interest rate had not been agreed with the Trustees bargaining for 14%, while the Developer 8%.
+f) No bank reconciliation was availed to support the bank transactions.
+Recommendation(s)
+a) The Trustees to ensure completeness by reconciling the transfers with all the vouchers. 
+b) The trustee should be held accountable for missing documents as it was their responsibility to ensure that the project expenditure is properly accounted for in with Trust Deed on Clause 17.
+
+2.1.6	A comprehensive analysis of the mode of financing of the project, and any financing arrangement between the developer, the scheme and the financial institutions. 
+We have reviewed the funding for phase 1 apartments based on the audited accounts by the PKF for the period up to December 2017.
+Table 11: Funding Arrangements for the Project Cost
+Responsibility Phase 1(Kshs)Total Construction Cost as per PKF Accounts  1,363,038,116.00 Work In progress- as per the accounts  99,631,184.00 Total Project Cost – Expensed  1,456,623,362.00   Sale of Apartment (net of Commission) 1,276,363,869.00 Transfers from KPAPS/Loan  180,259,493.00 Liabilities  6,045,938.00 Total 1,456,623,362.00 The amount under loans/KPAPS showed the balance that could not be met by the end of the Phase 1 period.
+Phase 2: The total project cost for the Phase 2 was as follows:
+Table 12: Phase total project cost for the Phase 2
+Total Construction Cost -Expensed as at October 2021, by PKF2,313,244,251.08Interest from KPAPS Loans  221,060,000.00 Total 2,534,304,251.08  Financed By  Loans1,078,000,000.00Sales of Apartments Gross851,314,224.20Rent 31,263,080 KPAPS573,726,946.00
+Total 2,534,304,250
+Key Findings:
+a) The total cost for the phase reveals transfers from the Scheme of Kshs 180 Million
+b) The loan under KCB was fully paid by the Scheme at the close of the financial period 2022.
+Recommendation(s)
+There is need for the Project and the Scheme to ensure availability of records for Phase 1 to enable full ascertainment of financing position. 2.1.7	Investigate the collection of monies paid in relation to the purchased apartments and the utilization of the funds. 
+Receipting 
+Phase 1
+ From reconciliation below, we noted Kshs 941,893,619.35 were not banked in the Stanbic account, partly to first lawyer Nyiha Mukoma & Company Advocates and Robson Harris Advocates LLP. We recognized total sales of 144 Units as per Appendix 7 (Phase 1 Sales summary), is equivalent to Kshs 1.311 Billion as realized.
+Table 13 below explains the total banking in the Stanbic CFC account up to the period ended December 2017, compared with total sales as summarized from the PKF accounts.
+
+Table 13: Banking Analysis Stanbic Account Phase 1
+Particulars Amount (KES) Total Banking’s in the Stanbic account  701,737,112.88 Less:  Transfers from KPA Scheme-  (31,893,075.73) Rental Account  (4,825,000.00) Contra Entries (Reversals)  (7,136,555.50)Total Collection of Apartment Sales  657,882,481.65  Less: Advance collection for Phase 2- In line with PKF accounts 288,056,101 Net potential Banking on Phase 1 Units369,826,380.65
+
+Particulars  Amount (KES)  Apartment Sales as per PKF Report  1,311,720,000.00  Less:   Total Potential Apartment Sales from the Banking’s369,826,380.65 Transfer by the Lawyer (Robson Harris) to Shelter Afrique  35,100,000.00  Total Sales - Not Banked – Possibly transferred to Mukoma906,793,619.35
+Key Findings 
+a) The lawyer - Nyiha Mukoma account received Kshs 906 Million from the total apartment sales, while Robson Harris received Kshs 35 Million Inclusive of their commission.
+b) No statement from the lawyer(Nyiha Mukoma) was availed after making a number of requests. The lawyer in responding to our request alluded that the current lawyers were in a better position to respond the concerns as all the documents had been transferred to them as per Appendix 23 (Nyiha Mukoma & Company Advocates) attached. 
+Phase 2:
+The phase 2 apartments were sold as per the sales agreement summarized under Appendix 8. The summary of the expected income against receipt had a difference of Kshs 163 Million.
+
+
+
+Table 14: Phase 2 Unbanked Sales Amount
+
+RECONCILIATION Amount (KES) Total Units Sold (102 Agreements) 1,470,200,000.00 Reconciled to:Lawyer's Remittance to CFC Stanbic Bank  60,675,000.00 Lawyer's Remittance to KCB Bank  70,852,000.00 Direct Deposits to CFC Stanbic Bank 606,097,224.20 Direct Deposits to KCB Bank 113,690,000.00 Mortgage 143,600,000.00 Prepayments 288,056,101.00 Transfers to Shelter Afrique  23,600,000.00 Total 1,306,570,325.20 Difference 163,630,0000
+Key Findings
+a) In the absence of records, we could not ascertain whether the balance of unreconciled amount of Kshs 163 million was kept by the lawyers or the sales were not fully executed. 
+b) The statement from the Lawyer attached as Appendix 24 - Robson Harris Advocates LLP only provided Kshs 155,127,000 as the total amount transferred from Phase 2 purchases with a balance retained by them of Kshs 880,000.
+c) The outstanding amount of Kshs 69.7 Million was still outstanding with the Consultants.
+Recommendation(s) 
+a) The Trustees should ensure that where collections are not remitted immediately the lawyers should be made to compensate the Scheme in form of lost income 
+b) Nyiha Mukoma should be made to account for all the monies received and how they were spent.
+c) The balance of Kshs 163 million should be explained by the lawyers as to whether the amount was not fully executed or not.2.1.8	The cost benefit analysis of the project to the scheme
+The cost benefit analysis is to determine whether there was value addition of the project to the Scheme net worth. The project was conceived to increase the Scheme net worth in addressing the financing deficit arising from actuarial valuation.
+The project initial plan was to be executed within a period of 36 months with the expected net returns summarized as follows:
+Table 15: Expected Net Returns Summary
+Particulars KshsLand 160,000,000Profit on Sale 251,267,720Refund on Project Expenses55,000,000Total 466,267,720
+As part of this project, the JVA which was signed provided that the developer earnings were part of project, with a chance of sharing profit at the end of the period, if there was a surplus.
+The delay in the completion of the project resulted to revised estimates on the minimum return as per the Minutes attached as Appendix 14 dated 19th of October, with revised Budget signed on 4th November, 2016. Revised budget provided that the owner was assured of Kshs 544 Million, with 198 apartments. With these changes, the developer had asked for 16 units to be given to them as part of their profits as per the Appendix 14.
+A: Potential Income from Investment 
+We have prepared the Cost benefit analysis, by assuming that the Scheme instead of venturing in to the project, could have sold the plot and invested the funds in other investment areas (bonds and other Government Securities) 
+The assumption guiding the investment is based on the following: 
+a) The value of the land of Kshs160 million to be realized the first year.
+b) The interest earned from the deposit to be re-banked on annual basis. 
+c) The interest earnings will be equivalent to the yearly returns made by the Scheme on Government Securities and Corporate Bonds. 
+d) The transfers/injection made by the KPAPS in the years of 2021 and 2022 were to be invested under the same principles above.
+
+
+
+The outcome of workings based on the above assumptions:
+Table 16: Analysis of Alternative Investment
+2009 - 2015
+Year2009201020112012201320142015Financial AssetsKshsKshsKshsKshsKshsKshsKshsShares       Quoted Shares (Kenya)       Quoted Shares (Offshore)       Kenya Government Securities commercial papers 2,956,170,000.00 3,494,559,000.00 4,080,583,000.00 5,749,873,000.00  6,375,221,000.00 6,500,200,000.00 6,544,584,000.00 Corporate Bonds540,091,000.00 936,670,000.00 861,875,000.00 1,050,299,000.00 1,235,181,000.00 1,706,531,000.00 1,672,579,000.00         Total3,496,261,000.00 4,431,229,000.00 4,942,458,000.00 6,800,172,000.00 7,610,402,000.00 8,206,731,000.00 8,217,163,000.00         Investment Income       Dividend Receivable on Quoted shares 
+(Kenya and Offshore)       Interest and discount receivable on Kenya government securities, commercial paper and corporate bonds and loans and receivables469,155,000.00 816,691,000.00 507,131,000.00 853,292,000.00  877,804,000.00 993,098,000.00 1,073,276,000.00         Total469,155,000.00 816,691,000.00 507,131,000.00 853,292,000.00 877,804,000.00 993,098,000.00 1,073,276,000.00         Net Percentage of Return 13.42 18.43 10.26 12.55 11.53 12.10 13.06         Direct Sale of the Plot 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 Bal B/F 21,470,021.83 54,915,581.43 76,967,433.71 106,702,330.92 137,464,486.83 173,460,718.09 Loans                Total 160,000,000.00 181,470,021.83 214,915,581.43 236,967,433.71 266,702,330.92 297,464,486.83 333,460,718.09         Interest Earned 21,470,021.83  33,445,559.60  22,051,852.28 29,734,897.21 30,762,155.91 35,996,231.26  43,554,616.80 Potential Returns        
+2016 - 2022
+Year2016201720182019202020212022Financial AssetsKshsKshsKshsKshsKshsKshsKshsShares       Quoted Shares (Kenya)       Quoted Shares (Offshore)       Kenya Government Securities commercial papers7,336,643,000.00 6,345,717,000.00 5,516,880,000.00 6,486,521,540.00 6,012,205,194.00 6,228,602,583.00 4,547,032,418.00 Corporate Bonds1,560,176,000.00 1,324,620,000.00 1,091,785,000.00 238,388,835.00 - - -         Total8,896,819,000.00 7,670,337,000.00 6,608,665,000.00 6,724,910,375.00 6,012,205,194.00 6,228,602,583.00 4,547,032,418.00         Investment Income       Dividend Receivable on Quoted shares 
+(Kenya and Offshore)       Interest and discount receivable on Kenya government securities, commercial paper and corporate bonds and loans and receivables1,058,047,000.00 957,856,000.00 849,264,000.00 811,529,316.00 774,387,225.00 738,160,593.00 689,068,411.00         Total1,058,047,000.00 957,856,000.00 849,264,000.00 811,529,316.00 774,387,225.00 738,160,593.00 689,068,411.00         Net Percentage of Return 11.89 12.49 12.85 12.07 12.88 11.85 15.15         Direct Sale of the Plot 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 160,000,000.00 Bal B/F217,015,334.90 261,851,578.51 314,531,541.01 375,512,473.57 64,623,027.99 28,932,013.75 152,634,663.45 Loans      1,099,000,000.00 1,579,673,989.55         Total 377,015,334.90 421,851,578.51 474,531,541.01 535,512,473.57 224,623,027.99  1,287,932,013.75  1,892,308,653.00         Interest Earned 44,836,243.61 52,679,962.51 60,980,932.56  64,623,027.99  28,932,013.75  152,634,663.45  286,765,080.34 Potential Returns       908,467,259.09 
+The above profit of Kshs 908 Million is based on the above assumption that land valued at Kshs 160 Million was sold in the first year. The additional injections that were made to the project in the year 2021 and 2022 have been invested back on the same interest terms with other forms of investment.
+B) Expected Return Based on Full Sale of Apartments 
+The workings below assume remaining apartments are sold at a price of Kshs 16 Million for Option 1 and Kshs 17 Million for Option 2. These two options are based on unsigned PKF Accounts dated 30th October 2021. The workings assumed no additional construction cost was paid after 30th October 2021. The income stated here is based on the actuals up to December 2021, while the remaining 96 units were to be sold at different pricing option made here.
+ Table 17: Expected Return Based on Full Sale of Apartments
+   Kshs  883,865,246.00 Kshs 16 Million Kshs 17 Million Net Loss for the two phases up to 30 October 2021   883,865,246 Add: Deferred Cost up to October 2021  1,515,339,129 1,515,339,129 Total Cost before interest   2,399,204,375 2,399,204,375Add: Additional Land Cost   80,000,000 80,000,000 Total Cost (Before Interest from KPAPS Loan)  2,479,204,375 2,479,204,375 Apartment Sold     Total Cost for 102 1,484,200,000  Less: PKF Sales -382,000,0001,102,200,0001,102,200,000Add: Apartments 96 @ 16 Million  1,536,000,000  Apartments 96@ 17 Million   1,632,000,000Total   2,63 8,200,0002,734,200,000Expected Profit before KPAPS Interest   158,995,625254,995,625Less: Loan Interest at 1.57 Billion at 14%  219,800,000219,800,000Net Profit   -60,804,37535,195,625Add: Cost of the Land Back80,000,00080,000,000Total19,195,625115,195,625Conclusion on Findings:
+a) The Scheme/Project is likely to realize a return of Kshs 19 Million when the remaining 96 units are sold at 16 Million and Kshs 115 Million when sold at 17 Million, after adding the value of land at Kshs 80 Million. 
+b) The interest rate is at 14% 
+c) We have assumed that there will be no additional expenses between the period 2021 and 2022 will be subjected to project 
+d) The expected profit before interest from the KPA was Kshs 154 million and 254 Million for the two hypothetical cases.
+e) The expected return earlier indicated in the revised project workings of Kshs 544 Million or Kshs 466 Million in the initial workings will not be realized. 
+f) The project did not anticipate additional borrowing from the scheme as currently witnessed with the interest charge made on the loan. 
+g) The return can only be realized if the outstanding amount given to the project by the Scheme will not be subjected to any interest.
+h) There was no detailed feasibility study carried out by the Scheme to assess the various option of investment that could have yielded higher returns other than the real estate.
+i) The advisory opinion should have included the financial implication. 
+j) No feasibility was carried out as confirmed by the Trustees. 
+k) The logic on sharing ratio of 60: 40 was not based on any risk and therefore was unreasonable.
+Recommendation(s)
+a) The Scheme trustees as highlighted below on Table 20 and Appendix 19 should be made to account for viability of the project, based on any written-up document. 
+b) The cost benefit working identified here confirms the project would not realize the expected minimum returns unless the units are sold Kshs 18 million and above.
+c) The trustees should have reviewed the project viability between the period 2005 up to 2009 before it was officially launched.
+d) The JVA should be changed to accommodate interest rate charged by the Scheme at 14%2.1.9 Identify the profit or loss sharing ratios (if any) in the implementation of the project. 
+The profit sharing was based on the joint venture agreement. The profit and loss account sharing could not be established considering that the units developed had not been fully sold. The sharing ratio was to be based on any profit after the final report has been issued and the owner has obtained their returns.
+Recommendation(s)
+The Scheme ought to vary the sharing ratio considering that they were involved in funding phase 2 as opposed to the initial arrangements where the developer was to be responsible for funding the construction. 2.1.10 Undertake a comprehensive and adequate audit of the accounting records- Vouching tests
+Our in-depth review of the vouchers was based on general vouching principles to ensure that adequate third parties are attached. The vouchers availed were all scanned with the attachments, which posed challenges in determining their authenticity, where forgery could be involved. We noted that a number of them had the following missing:
+* Contracts;
+* Invoices;
+* Minutes; and
+* loan agreements.
+
+We could not establish the reasons for unsupported documents.
+A summary of the unsupported documents for phase 1 and 2 is summarized here below.
+Table 18: Phase 1 Vouching Tests and the Outcome
+Phase 1
+ActivityKshsAudit Fees  1,237,465 Bookkeeping Fees  220,000 Cleaning Services  2,411,044 Clerk of Works  2,035,000 Commission on Sales  23,505,458 Construction Costs  14,971,769 Debit Notes  708,739 Financial Costs  40,512,281 Land and Rates  2,422,592 Legal Fees  1,028,040 Marketing Costs  5,795,613 Meeting Expenses  6,267,159 Not specified	      6,563,399Other Costs  7,128,585 Postage  11,242 Printing & Stationery  136,400 Professional Fees  28,468,820 Rent Deposit Refund  2,046,000 Security Services  1,006,763 Service Charge  408,000 Water and Electricity  852,789 Valuation  232,000 Total 147,969,158
+
+
+Table 19: Phase 2 Vouching Tests and the Outcome
+Phase 2
+LedgerKshsAudit 1,936,345.00 Bookkeeping 20,000.00 Borehole 3,171,509.00 Caretaker 45,000.00 Clerk of Works 1,852,500.00 Commission on sales 3,071,450.00 Debit Notes 2,716,431.00 Laptop  104,310.34 Legal 5,460,690.00 Loan and Loan interest 67,120,557.50 Marketing and advertising 21,013,693.00 Meeting  806,564.00 Meetings  459,600.00 No details  126,993.00 Payment to JWHC 387,793,278.50 Payment to Volcanic Plumbing Works 1,824,021.00 Professional fees 68,998,473.00 Reimbursement of Project Costs  237,867.00 Secretarial  710,276.00 Show house 8,894,940.00 Site Costs 48,600.00 Subcontractors Fee Deposit 3,132,824.00 Tax 16,884,252.00 Travel 12,923,285.00 Grand Total 609,353,459.34 
+Key Findings 
+1) In the absence of contracts, invoices and minutes we could not ascertain the authenticity of the payment vouchers. 
+2) The basis for this questionable cost was based on general financial management practices in the absence of manuals or any form of guidelines from the Scheme project.
+Recommendation(s)
+a) The Trustees and the project management to fully account for the unsupported vouchers. Any amount not accounted for should be recovered from the Trustees.2.1.11	The Scheme’s policies and procedures including procurement and disposal procedures and in particular, procedures used in identifying the developer and any other provider in relation to the Project 
+Scope Reference 
+a) Internal Control Systems 
+The Scheme being a corporate entity was required to have their own internal control procedures to support their activities. There were no documented procedures developed by Scheme. From the discussion with the staff, we noted that the Scheme relied on the financial management practice carried out by their Sponsor. The Scheme has been trying to develop their own systems and procedures from the year 2023.
+
+We noted the following within the Scheme and the project:
+a) Financial management procedures such as reconciliation and preparation of financial reports on their investments could not be ascertained in the absence of reports. 
+b) The Scheme should have provided for a system of tracking expenditure to be used by the Project. 
+c) The Scheme did not avail ledgers matched with transfers from the bank, possibly attributed to lack of effective systems.
+d) The Scheme ledgers in their system had only a single transaction on all their projects with no details.
+e) The Scheme relied on personnel from the Sponsor Kenya Ports Authority up to the period 2021. No secondment/appointment letters were availed to ascertain the level of responsibility to the Scheme activities.
+f) The project management team did not have documented procedures to follow, except on the basis of approval of the SPV committee.
+g) The project financial statements were attached to the minutes as no separate reports were availed.
+
+Key Findings:
+a) Procurement was approved by the technical committee of the SPV. 
+b) Project Payments were approved by the technical committee and then forwarded to the Scheme to transfer funds to the Developer accounts or the supplier. 
+c) Transfer to specific suppliers were carried directly by the Scheme after the approval by the technical committee 
+
+b) The procurement process for the Developer 
+The scheme based placed an advert for the contractors (Developer). 
+a) An advert for the bidders was placed in one of the Daily newspapers. It provided for development of five properties of which Bellevue Nairobi under advert KCHS/02/2005CE and KCHS/03/2005CE was one of them. 
+b) The Trustees appointed an evaluation committee to be responsible for evaluating all the proposals received.
+c) The records availed did not provide for the final selection of Southern Development Limited as the Project Developers. Appendix 1 had the minutes of the evaluation committee resolving that Villa Care had emerged as No 1, with select team proposing for a second process for number 1 and 2.
+The evaluation committee appointed were as stated here below:
+Name Position i)Mr. M. K. MURETrustee- Chairman of the Committee ii)Ms. M. GATERETrustee- Secretary of Committeeiii)Mr. M. K. WARATrustee- Member iv)Mrs. M. T. NYAGATrustee – Member v)
+Mr. M. M. AMAHWA Administratorvi)Mr. J. OIUBAYIActuaryvii)Eng. A. M. NYANJEMember (co-opted)viii)QS S. O. ARIWIMember (co-opted)ixArch. M. SUEROMember (co-opted)
+Key Findings 	
+a) There were no terms of reference for the Evaluation committee.
+b) The evaluation summary as noted under Appendix 1 by the Committee minutes had Villa Care emerging as number 1, followed by Triad consortium within the Southern Development. 
+c) The Evaluation Committee suggested for a further proposal by the two firms Villa Care and Triad Consortium, before final decision was to be made. 
+d) The scheme advert was made in 2005, but the award of tenders was given in 2009. 
+e) The Triad Consortium won the contract, with no minutes provided on the final selection under Appendix 16, against the initial evaluation which had placed Villa Care as No 1. 
+f) Triad Consortium later became Southern Development Limited of which we could not understand the change in the absence of minutes.
+g) There was no any other process witnessed up to the final stage of the procurement process to ascertain the selection of Triad Consortium.
+h) We could not obtain reasons why Triad who applied as the lead consortium later own gave in for Southern Development Limited, which also later allowed Pinnacle to be the central player.
+i) The trustees involved in this project up to the year 2022 is as per Appendix 22
+Recommendation(s)
+Internal Control Procedures 
+a) RBA Act under Section 40 requires the trustees to manage the Scheme in line with its provision. In line with Section 17 of the Trust Deed, the trustees should have kept reliable records for both the Scheme and the Project. Such records should have necessitates maintaining reliable cash book and financial reports. 
+b) Failure by the trustees to provide effective leadership should lead to them being surcharged with an offence in line with section 53.
+c) Procurement Process for the Developer: In the absence of the process being concluded, the Trustees involved in the selection of the Triad Limited should be held to account for potential loss of not selecting Villa Care Limited. 
+d) The trustees should provide reasons for the change of Triad consortium to Southern Development Limited. 2.1.12	 Consistency of the Sales of Apartments based on the Sales Agreements 
+Sales Agreement Contracts 
+Phase 1
+The review was to confirm the consistency of pricing across all the apartment blocks. Extract from Appendix 9(i) under Table 21 confirms inconsistency of pricing within the same blocks. We noted that apartments sold on the same block had different pricing rates to different purchasers without referencing to the minutes. The summary of the working is for phase 1 compiled from the PKF analysis of sales agreements under Appendix 9 (iii), revealed that Kshs 39 million could have been lost due to this inconsistency 
+Table 21 below highlights a sample of the inconsistency within the blocks of which full comparison of 144 apartments are per Appendix 9(iii). 
+Table 21: Inconsistency in Pricing 
+SN.Ref. Document Page No.Apartment No.Date of Sale AgreementPurchaser Name Purchase Price BLOCK 4     26463-479G16 Nov 2013Johari Mzee Thabit 11,000,000.00 27480-495G21 Oct 2012Crystal Impex Limited 10,000,000.00 28496-503G33 Aug 2015Everlyn Wanjiru Ngunjiri 9,000,000.00 29504-506G828 Jan 2010John K. Cherutich 8,500,000.00 30507-514G92 Sep 2013Damaris Kemunto Oseko & Ken Shimomukai 8,500,000.00 31515-532G1028 Mar 2014Albert Rumanzi Semutwa 10,000,000.00 32533-552G1216 Apr 2012Charanjit Suri 9,000,000.00 33553-570H15 Dec 2011Safiya Kuli Aden 9,000,000.00 34571-585H221 Sep 2011Mohamed Maalim Ali 9,000,000.00 35586-595H412 Oct 2016Mary Wanjiku Gatere 7,500,000.00 36596-611H727 Dec 2012Cynthia Mathenge 8,500,000.00 BLOCK 5     37612-615J510 Aug 2009Kenya Twelve Properties Limited 7,500,000.00 38616-632J112 Oct 2012Faith Mbesa Kitheka 9,000,000.00 39633-649K111 Sep 2014Godrey Muchira 8,500,000.00 40650-667K324 Jul 2013Michael Amaya Lwoyelo 10,500,000.00 41668-671K43 Feb 2010Mary Masitsa Muhadia 8,500,000.00 42672-685K623 Aug 2010Susan Muthoni Gichuki 8,500,000.00 43686-693K922 Apr 2013Joshua Khauka Togo 8,000,000.00 BLOCK 6     44694-710L111 Sep 2014Wanita Kayange Mugesani 9,000,000.00 45711-724L227 Oct 2011Laban Karobia Gathungu 7,500,000.00 46725-741L55 Feb 2013Jamila Ahmed Juma 9,500,000.00 47742-758M627 Nov 2012William Atito Ambundo & Myra Okwambitsa Ambundo 9,000,000.00 48759-774M108 Sep 2015Fatuma Abdallah Mambeya 9,500,000.00 
+
+
+
+
+Key Findings:
+a) The inconsistency casted doubts on the reliability of the sales and income from each sale of apartment blocks.
+b) There were no minutes to support justification for the inconsistency on the selling prices of apartments.
+c) The difference between average price and the prices sold were significant of Kshs 39 Million.
+Phase 2:
+The apartment sales in Phase 2 were supported by minutes of the technical committee’s resolutions. Resolution from the minutes on the selling prices had set specific pricing rates/targets highlighted below as per Appendix 10 (Minutes):
+Table 22: Apartment Sales Summary in Phase 2
+Minute Reference Resolution 6th April, 2017Members resolved that the selling price was at Kshs 15 Million 25th October 2018 Members resolved that all cash sales should be Kshs 13.875,0004th July 2019 – To date The meeting resolved that Consultants will pay cash price of Kshs 14 Million. The other purchasers were to pay Kshs 15 Million 
+The inconsistency as per Appendix 11 (Summary of the sales against approved pricing) for Phase 2, reveals that Kshs 105 Million could have been lost, since the apartments were sold outside the guidelines provided within the minutes. The minutes references are attached as Appendix 10.
+Recommendation(s)
+a) The Developer and the Trustees to avail minutes for the technical committee to support all sales of apartments under Phase 1
+b) The Trustees and the developer under Phase 1, should be made to account for the differences of Kshs 39 Million.
+c) For Phase 2, the minutes were explicit and therefore the technical committee members should be held accountable for the differences.2.1.13 Suspected cases of Misappropriation or Loss of funds. 
+We reviewed the following with regard to potential misappropriation of funds:
+1. Refunds not adequately accounted for. 
+2. Exchange of apartments against services offered by professional. 
+a) Inadequate Supporting Documents for Refunds
+
+In the absence of contracts from sales agreements or offer letters, we have summarized refunds for both Phase 1 of Kshs 13,101, 816 and Phase 2 of Kshs 38,505,612.00 as per Appendix 12 (Deposit /Purchase Refunds), as part of questionable cost.
+
+b) Exchange of apartments against services offered by professional 
+We noted apartments that were exchanged with professional services as stated here below. There was no clear basis of the exchange in terms of how much the consultants were owed and the balance they were to pay. There were no records to support the amount expected from them compared with the services offered.
+Table 23: Trade-in Apartments
+Apt BlockApt No.PurchaserRelated PartyDate of Purchase as per Agreement Cost of Apartment  Actual received Amounts Unsupported as PaidKilindini7-02Shaque Holdings LtdSubcontractor to the Project-QS29-Oct-20 14,000,000.00 200,000.00 13,800,000.00 Kilindini7-04Benjamin Christopher Okoth NyawadeSubcontractor to the Project-Triad Arch.-14,000,000.00  14,000,000.00 Kilindini9-04Thomas Koigi KahuriaSubcontractor to the Project-QS29-Oct-2014,000,000.00  14,000,000.00 Kilindini9-03Kentmere Flora LimitedSubcontractor to the Project-QS30-Oct-2014,000,000.00 100,000.00 13,900,000.00 Kilindini9-02Thomas Koigi KahuriaSubcontractor to the Project-QS29-Oct-2014,000,000.00  14,000,000.00      70,000,000.00 300,000.00 69,700,000.00 	
+Key Observation
+a) The outstanding balances of Kshs 69 Million due from the consultants could not be supported.
+
+Recommendation(s) 
+a) The Scheme through the project should fully account for all the refunds with adequate supporting documents based on the initial receipts.
+b) Apartment units given to the Consultants should be fully recovered from them after certifying the amount relating to their professional services.2.1.14 Verify the title ownership, any encumbrances, and occupancy of the properties owned by the scheme in the same locality whether vacant or otherwiseDue to the challenges witnessed at the commencement of the assignment based on Appendix 13 (Clarification on our role) dated 16th November, 2023, we could not access documents relating to the project. The developer had expressed their desire that before the commencement of the work a Non-Disclosure Agreement to be signed. This was not possible as the auditors were not engaged directly by the developer, and therefore the responsibility of securing the information was left to the Scheme trustees.
+Key Findings
+The information on this requirement could not be ascertained as the trustees were unable to get the information needed from the Developer.
+Recommendation(s)
+a) The scheme leadership should have varied the Joint Venture Agreement to ensure that they are directly involved in the management of the property/apartment for those which were not purchased.
+b) Records relating to the project should be kept by the Trustees lawyers at the expense of the Developer. 2.1.15	Tenancy AgreementsFrom the sales agreements we noted that 96 units were not sold. We could not ascertain the number of units which were rented as the information could not be availed by the developer. We were made to understand that the initial company (Tyson Limited) which ought to have been responsible for property management were not involved.
+Key findings 
+a) Potential loss of rental income was imminent. 
+b) The trustees should have taken charge and follow upon the status of the units not purchased. 
+Recommendation(s)
+a) An audit of the tenants should be carried out to determine how many of the apartments were occupied and the rent paid by them reconciled against the rent that has been received from Pinnacle.
+b) The Trustees ought to have been responsible for full accounting of the units not sold. 
+
+
+3.0	SUMMARY OF POTENTIAL LOSS
+
+Investigation detailsPotential Financial Losses to the ProjectPotential Quantified Financial Loss (KES)2.1.4Lawyers holding Funds without authority, denying the Project opportunity to earn interest. 1) Phase 1- Funds not accounted for had Kshs 941 million received in their accounts without any disclosure to the Scheme.
+Loss Criteria
+Phase I-Funds held in contravention of JVA
+Loss Criteria
+Phase II- Funds held in contravention of JVA
+No interest was accrued on the amount received by the lawyers in both phasesKshs 906 Million for Phase 1, and 
+Kshs 163 Million not banked 
+2.1.5Project Costs incurred as observed through the bank payments without any documentation.1. Phase I- Amount withdrawn but not supported with vouchers 
+Loss Criteria
+Unsupported Payments.
+ 2) Phase II-Kshs. 1.171 Billion
+Loss Criteria
+Unsupported Payments and details of payments unknown.
+
+Phase 1- 45 Million
+Phase 2- 1,171 Million 2.1.10Project Costs incurred without proper supporting documentation.Phase I and 2 Vouchers submitted but not fully/adequately supported with third party documents 
+Loss Criteria
+Unsupported Payments vouchersPhase 1-147 Million 
+Phase II-Kshs 609 Million 
+
+
+
+2.1.12Sales of Apartments units without adhering to set/agreed prices.Phase 1- Apartment sales not uniform within the blocks and no minutes supporting the variation 
+Phase 2- Apartments sales inconsistent with the minutes guideline on the amount to be sold 
+Loss Criteria
+* Inconsistencies in Sales Selling Units.
+Violation of set sells prices as per the minutes.Phase I-Kshs 38 million.
+Phase II-Kshs. 105 Million2.1.13Refunds paid out as sales refunds for cessation to proceed with purchases without proper documentations. Loss Criteria
+Unsupported refunds of sales to purchases. Refunds had no letters of offer, no sales agreements or deposits attached to them.
+1)Phase-I-Kshs. 13Million 
+2)Phase-II-Kshs. 39 MillionMisappropriation, Conflict of interest and possible theft.Loss Criteria
+Consultants acquisition of units without full paymentsPhase 11- 69.7 Million Units costs 
+
+
+
+
+4.0	CONCLUSION
+The investigation reveals that the scheme management was involved in overseeing the activities of the project but were not diligent enough to address the challenges witnessed. As such, the level of commission and omission witnessed is attributed to lack of adequate oversight from Trustees as bestowed by the Trust deed under Section 17, in ensuring that reliable accounting records were in place. From the discussion with the former trustees, it was evident that the trustees had challenges with the administrator who should have been responsible for overseeing the project on a more regular basis. This was evident with the lack of records which were vital in decision making on project activities. Therefore, failure by the trustees to address these challenges could have been attributed to lack of adequate information generated internally or from the Developers.
+In conclusion, we noted the following:
+a) The Scheme financial reports did not take keen interest on the project from the year 2009. In all the years, the financial statement never provided breakdown of debts owed by the various projects. This weakness should be addressed by the trustees in ensuring that all their projects are listed in their audited financial statements 
+b) The scheme leadership did not have in place a reliable monitoring system to guarantee the success of the project, they relied on the Special Project Vehicle (SPV) Minutes for decision making without subjecting them to any critical review. Arising from this gap, the Trustees should have hired or engaged a more competent person with a background in construction to help them track the progress by the developer as a basis of obtaining insight information to the development 
+c) The Scheme leadership ought to have adhered to the Sponsor procurement requirements in ensuring that the variation witnessed from the initial budget for undertaking the construction project should not have been allowed to proceed without a valuation report. The report should have indicated whether there was need for retendering or the existing developer to continue, since the variation exceeded 15 %.
+d) The Developer and the Trustee should agree on the rate to be charged on funds borrowed from the Scheme. From the correspondences, the Trustees are suggesting 14% while the developer 8%. If the existing the JVA has to continue, then the issue of the interest should be included in it. 
+e) The Apartments construction have been concluded, and from our cost benefit analysis we have noted that the apartment pricing must exceed Kshs 18 million for the project to have any impact on the initial investment. The management of the Scheme therefore should obtain professional valuation of the potential amount that the remaining apartment are likely to be sold. This could enable them to decide whether to continue renting them or loom for opportunities of selling them
+f) The Scheme leadership did not respond appropriately to clause 17 of the Trust deed by availing all the records. Failure by the Scheme leadership to obtain these records indeed made it difficult to ascertain whether the incompleteness of the records was intentional or not. Therefore, the existing trustees should take a lot of interest to ensure that the missing information are availed and if not reconstruction of the records takes place as highlighted in this report. 
+g) The Joint venture agreement had empowered the developer to be responsible with all the service providers. Some of these service providers were part of the consortium. There were changes in terms of consortium members without the authority of the owner (Scheme). In case of a continuation of the joint venture agreements, the Scheme leadership should revert back to the initial contracting documents and ensure that key service providers enlisted earlier are involved rather than give the lead consortium members the mandate to introduce new members. 
+h) The joint venture contract irrespective of these challenges had not been vacated by both the parties. However, failure by the developer to provide records during this assignment should give the Scheme power to amend the contract or suspend it fully based on the advice from their lawyers.
+i) The Trustees on the advice of the lawyer’s should have vacated the contract on the basis of having faced frustration in the year 2019. 
+j) The trustees in implementing this project had registered a company by the name Bellevue Development Company which was to be used as a Special Project Vehicle. This SPV was never operational though it continued to be used by the technical committee as a basis for approving payments. These payments and other decision based on it could be contested. 
+In conclusion therefore RBA management should ensure that the recommendations highlighted in this report are implemented within a specific time frame. The previous trustees should be made to account for their actions of not being diligent in ensuring that the activities were carried out in line with good financial and project management practices. It’s obvious that the project is likely to culminate to a loss and as such, the current trustees ought to be involved fully in the management of the project from the developer.
+In summary and arising from the outcome of this assignment, RBA should be keen in the future to ensure that before approving Pension Schemes project, there should be a documented project management structures put in place, project policies and procedures in endeavors of such magnitude. This will protect pensioners funds from any risky investments.
+
+
+
+
+APPENDICES
+
+Appendix 1: Summary of Evaluation Committee
+
+
+6.2 Summary of the Evaluation-TENDER No.KCHS/02/2005 CE
+Name of firm: TRIAD ARCHITECTS	Score sheet No. 1
+TRIAD ARCHITECTSVILLA CARE LTDINTEX CONSTRUCTION LTDMUGOYA CONSTRUCTION LTDGITUTHO & ASSOCIATESCLAUSEDESCRIPTIONPOINTSSCORESCORESCORESCORESCORE1.3All firms shall provide with their tenders, a declaration that they are [including all members of a joint venture] not associated in the professional business with any staff member of the client. A firm that has been engaged by the Scheme in preparation of the tenders shall not be eligible to tender.101011.3.1Certificate of Registration or incorporation1011111.3.2Trade license or single business permit1011111.3.3VAT certificate1011111.3.4PIN No. certificate1011111.3.5Proof of registration of the company with the relevant body of registration, e.g., an Architectural firm should that it is registered with BORAQS15QS – 5)
+Eng – 0) =5
+Arch – 0)QS – 5)
+Eng – 5) =15
+Arch – 5)QS – 0)
+Eng – 5) =5
+Arch – 0)QS – 5)
+Eng – 0) =5
+Arch – 0)QS – 5)
+Eng – 0) =10
+Arch – 5)1.3.6Proof of registration of the Principal personnel of the firm with the relevant body of registration, e.g. the Principal Architect of the firm should proof that he/she is registered with BORAQS16Eng – 4)
+QS – 4) =12
+Serv. Eng – 4)Eng – 4)
+QS – 4) =16
+Serv. Eng – 4)
+Arch – 4)Eng – 4)
+QS – 4) =16
+S/Eng – 4)
+Arch – 4)Eng – 4)
+QS – 4) =16
+Serv. Eng – 4)
+Arch – 4)Eng – 4)
+QS – 4) =16
+Arch – 4)
+S.E. – 4)
+1.3.7Proof of corporate membership of registration with the relevant professional association, e.g., Engineers should proof their with the Institute of Engineers of Kenya8Arch – 2)
+Eng – 2) =6
+Serv. Eng – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =6
+Serv. Eng – 2)
+Q.S – 0)Arch – 2)
+Eng – 2) =6
+Serv. Eng – 0)
+Q.S – 2)ARCH – 2)
+Engr – 2) =8
+Q.S – 2)
+S. E – 2)
+1.3.8Proof of registration of the firm with the Ministry of works1011111.3.9Proof of up to-date annual subscription with the relevant of registration.1010111.3.10Proof of up W-date annual subscription with the relevant professional association.1010111.3.11Evidence of Professional Indemnity1010011.3.12Submit proof of NSSF, NHIF and PAYE monthly returns for the months from January to May 2005.1011111.3.13Proof of Tax Compliance for the last six months i.e. January to June 20051011111.3.14Total monetary value of construction work performed for which you were the consultant for each of the last three years i.e. 2002, 2003, 2004.5555551.3.15Experience in works of similar nature and size for at least five projects, and details of work under way or contractually committed; and names and addresses of clients who may be contacted for further information on these projects5555551.3.16Qualifications and Experience of the company personnel and an undertaking that they shall be available for the works i.e., attach detailed Curriculum Vitae of the firm's personnel.9Eng – 2)
+Arch – 2)
+Serv. Eng – 2)=8
+QS – 2)Eng – 2)
+Arch – 2)
+Serv. Eng – 2)=8
+QS – 2)Eng – 2)
+Arch – 0)
+Serv. Eng – 0)=2
+QS – 0)Eng – 2)
+Arch – 2)
+Serv. E – 0)=4
+QS – 0)Engr – 2)
+Arch – 2)
+S. E – 2)=8
+QS – 2)1.4Method Statement111011Certification of all documents by a Law firm or other approved body101000Properly filled and signed Tender questionnaire111111Properly filled and signed Confidential Business questionnaire111111Presentation of the tender document in an orderly format indicating indices, items and references with e numbers.111111Organizational Structure for the Consortium indicating key functionalities of partners in the Consortium setup333300Memorandum of Agreements in the Consortium by respective partners showing legal proof of equity representation3300031.4.2Ability Inject Equity Capital of a minimum of Kshs 300,000,000.00 and proof of venture carried out in Kenya for the last five (5) years.202020000TOTAL100%71%96%53%54%70%
+
+
+
+
+
+Summary of Tender Evaluation: TENDER No. KCHS/03/2005 CE
+
+TRIAD ARCHITECTSVILLA CARE LTDHEYER BISHAN SINGH & SONS LTDOTIENO KUNGU & ASSOCIATESMULJI DEVRAJ & BROS LTDINTEX CONSTRUCTION LTDMUGOYA CONSTRUCTION LTDCLAUSEDESCRIPTIONPOINTSSCORESCORESCORESCORESCORESCORESCORE1.3All firms shall provide with their tenders, a declaration that they are [including all members of a joint venture] not associated in the professional business with any staff member of the client. A firm that has been engaged by the Scheme in preparation of the tenders shall not be eligible to tender.101001101.3.1Certificate of Registration or incorporation111111111.3.2Trade license or single business permit111101111.3.3VAT certificate111111111.3.4PIN No. certificate111111111.3.5Proof of registration of the company with the relevant body of registration, e.g., an Architectural firm should that it is registered with BORAQS15QS – 5)
+Eng – 0) =10
+Arch – 5)Arch – 5)
+Eng – 5) =15
+Q.S – 5)Arch – 5)
+Eng – 0) =5
+Q.S – 0)Arch – 0)
+Eng – 0) =0
+Q.S – 0)Arch – 5)
+Eng – 0) =10
+Q.S – 5)Arch – 0)
+Eng – 5) =5
+Q.S – 0)Arch – 0)
+Eng – 0) =5
+Q.S – 5)1.3.6Proof of registration of the Principal personnel of the firm with the relevant body of registration, e.g. the Principal Architect of the firm should proof that he/she is registered with BORAQS16Eng – 4)
+QS – 4) =16
+Serv. Eng – 4)
+Arch – 4)Arch – 4)
+Eng – 4) =16
+Serv. Eng – 4)
+Q.S – 4)Arch – 4)
+Eng – 0) =12
+Serv. Eng – 4)
+Q.S – 4)Arch – 4)
+Eng – 4) =12
+Q.S – 4)
+Serv. Eng – 4)
+Arch – 4)
+Eng – 4) =16
+Serv. Eng – 4)
+Q.S – 4)Arch – 4)
+Eng – 4) =16
+Serv. Eng – 4)
+Q.S – 4)Arch – 4)
+Eng – 4) =16
+Serv. Eng – 4)
+Q.S – 4)1.3.7Proof of corporate membership of registration with the relevant professional association, e.g., Engineers should proof their with the Institute of Engineers of Kenya8Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 0)
+Eng – 0) =2
+Serv. Eng – 2)
+Q.S – 0)Arch – 2)
+Eng – 2) =6
+Q.S – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =6
+Serv. Eng – 2)
+Q.S – 0)Arch – 2)
+Eng – 2) =6
+Serv. Eng – 0)
+Q.S – 2)1.3.8Proof of registration of the firm with the Ministry of works111101111.3.9Proof of up to-date annual subscription with the relevant of registration.111111011.3.10Proof of up W-date annual subscription with the relevant professional association.111001011.3.11Evidence of Professional Indemnity111010001.3.12Submit proof of NSSF, NHIF and PAYE monthly returns for the months from January to May 2005.111101111.3.13Proof of Tax Compliance for the last six months i.e. January to June 2005111111111.3.14Total monetary value of construction work performed for which you were the consultant for each of the last three years i.e. 2002, 2003, 2004.555555551.3.15Experience in works of similar nature and size for at least five projects, and details of work under way or contractually committed; and names and addresses of clients who may be contacted for further information on these projects555555551.3.16Qualifications and Experience of the company personnel and an undertaking that they shall be available for the works i.e., attach detailed Curriculum Vitae of the firm's personnel.9Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 2)
+Eng – 2) =6
+Serv. Eng – 0)
+Q.S – 2)Arch – 2)
+Eng – 2) =8
+Serv. Eng – 2)
+Q.S – 2)Arch – 0)
+Eng – 2) =2
+Serv. Eng – 0)
+Q.S – 0)Arch – 2)
+Eng – 2) =4
+Serv. Eng – 0)
+Q.S – 0)1.4Method Statement11100101Certification of all documents by a Law firm or other approved body10101000Properly filled and signed Tender questionnaire11111111Properly filled and signed Confidential Business questionnaire11111111Presentation of the tender document in an orderly format indicating indices, items and references with e numbers.11111111Organizational Structure for the Consortium indicating key functionalities of partners in the Consortium setup33333330Memorandum of Agreements in the Consortium by respective partners showing legal proof of equity representation330033001.4.2Ability Inject Equity Capital of a minimum of Kshs 300,000,000.00 and proof of venture carried out in Kenya for the last five (5) years.20202000000TOTAL100%92%96%51%50%72%53%54%
+Appendix 2: Request for Data/Documents-letter dated 12/7/2023
+
+
+
+Appendix 3: Joint Venture Agreement
+
+
+
+
+
+Appendix 4 i): 2017, 2021 & 2022 Audited Financial Statements for KPA Pension Scheme
+
+
+
+
+Appendix 4 ii): 2017 & 2021 Audited Financial Statements for PKF
+
+
+Appendix 5: Loan Agreement for Shelter Afrique
+ 
+
+Appendix 6: Loan Agreement for KCB
+ 
+
+Appendix 7:  Phase 1 Apartment Sales Summary  
+House No.ClientPurchase Amount BLOCK  1  A1A&K HOLDINGS LTD7,500,000A2JULES INVESTMENTS LTD7,500,000A3WALI MOHAMED & ASHRAF SULEIMAN7,500,000B2NIGAT ASHRAF & ASHRAF SULEIMAN7,500,000B3AZMINA ASHRAF & ASHRAF SULEIMAN7,500,000A5ABDUL AZIZ MOHAMED7,500,000B6A&K HOLDINGS LTD7,500,000A7DONALD & MYRA DEYA7,500,000B9ZIPPORAH MUSAU7,500,000B1GEOFRY MURIRRI KINGANGA8,500,000B5RUTH N.  TIAMPATI8,500,000B7TOM NDHINE9,000,000B4JOSHUA WANJAU GATERO9,000,000A6SWALEH HUSEIN9,500,000A8JAMES MWANGI KIIRU9,500,000A4FRED RATANDI ONDIEKI9,500,000A11NICHOLAS CHEPCH1ENG CHELUGO9,500,000B8SUZZON CLIVE GAWNYA9,500,000A9ROBERT ALOO10,000,000B10FLORENCHE CHEPTIRGEI10,000,000B11EUSTACE MWANGI10,000,000A12WILSON DIMA DIMA10,500,000A10BEN MAINGIKIOKO10,500,000B12CAROLINE NYAMBURA KAMAU10,500,000Sub-Total 211,500,000BLOCK  2  C1RAEL CHEMUTAI CHOGE7,500,000D1TITUS MUSYOKA MWAU7,500,000D6JACQUELINE OLANG7,500,000C8GEORGE THAIRU KAMAU7,500,000D12DAVID ONYONKA8,000,000D9EDWIN MATHENGE8,350,000C6HANNA VVAMUCII NJUGUNA8,500,000D5DONALD SCAVER MWAKIO8,500,000D8RONNIE MUSOMA8,500,000C7RISPER D.N ALARO9,000,000C9ALI AALTONENN9,000,000C5FRONTIER INVESTMENTS LTD9,000,000C12SHIKUTWA MARY HILDA9,000,000C2DIBA BORU9,500,000C3JOSPHAT MULIMBA9,500,000D7MARGARET KAMAU9,500,000D2SHAPHAN WACHIRA & CATHERINE MUTHONI9,500,000D4BERNARD K.  WATATI9,500,000C10MICHAEL OTIENO MADUNG9,500,000C4BIANCA WAIRIMU GICHANGI9,500,000D3BONIFACE C ONYANGO10,000,000C11REHAN MOHAMED HASSAN10,000,000D10BARNABAS GACHANGA NJUGUNA10,000,000D11ISSA MUNYENDO10,500,000Sub-Total 214,850,000BLOCK  3  E5ABDULAZIZ MOHAMED7,500,000E6ABDULAZIZ MOHAMED7,500,000E7NAHID DAWOOD7,500,000E8NAHID DAWOOD7,500,000F4JOSEPH MOCHU GITHERE8,000,000F3JOSEPH KAMAU8,500,000E3JAMES OLUOCH & DORCAS OBONYO9,000,000F5SAMUEL MUTHOGA & MARY W.  MUTHOGA9,000,000F6ABDARAHAM BHOLIM9,000,000F7JAAD ALI MOHAMED9,000,000F8JAAD ALI MOHAMED9,000,000E11MARIAM M KHAMIS9,000,000E1DIBA BORU9,500,000F1ROSE KAYENGA9,500,000F2JAYNE KAMAU9,500,000E9ABUSHIRO KHALIF9,500,000E10OKOMBOLI ONGONGA9,500,000F11AHMED OSMAN & AISHA HASSAN9,500,000F12SAMUEL TIAMPATI9,500,000F9ELIJAH KIRIKA10,000,000E12BOB KEFA & JOYCE GIKIBI10,000,000E2PETER WANJAU KIMONDO10,000,000E4LYDIA OLESI10,000,000F10CHARLES KYALO10,500,000Sub-Total 217,500,000BLOCK  4  H4LYDIA WANJIRU GATERE & MARY WANJIKU GATHERE7,500,000H12YOBESH OYARO7,500,000H6JANNIFER W.  KAMAU8,500,000G8JOHN K.  CHERUTICH8,500,000G9DAMARIS KEMUNTO & KEN SHIMOMUKAI8,500,000H7CYNTHIA MATHENGE8,500,000G3EVA NGUNJIRI9,000,000H1SAFIYA ADEN9,000,000H2MOHAMED MAALIM ALI9,000,000G4THERESA WASIKE9,000,000G12CHARANJIT TUI9,000,000H5EMMA JOSEPHINE AKINYI9,500,000G5PIUS KIGAMWA9,500,000H3JAMES CHELAL9,500,000G6NANCY WAMBOI KINUTHIA9,500,000H9FRANCIS KAMAU9,500,000G7ESTHER & CHRIS THUKU10,000,000H8RENE BENZINGE10,000,000G10ALBERT SAMUTWA10,000,000G2CYRITAL IMPEX LTD10,000,000G11JAMES MUTUA10,500,000H11KOMIFARM LTD10,500,000G1JOHARI M THABIT11,000,000H10WAN ETA MUGESANI11,000,000Sub-Total 224,500,000BLOCK  5  J5KENYA TWELVE PROPERTIES LTD7,500,000J1BEATRICE ATIENO AGWEYO8,000,000K9JOSHUA TOGO8,000,000J3HENRY & LEAH NJUGUNA8,370,000K1GODFREY MUCHIRA8,500,000K2HENRY & LEAH NJUGUNA8,500,000K4MARY MASITSA MUHANDIA8,500,000K7COUTTS OTOLO8,500,000K6SUSAN MUTHONI GICHUKI8,500,000J6HANNAH NDEGWA9,000,000J4NAOMI K.  MUTEA9,000,000K5JOJEN BUTCHERY LTD9,000,000J11FAITH MBESA KITHUKA & ASMANI HUSSEIN9,000,000J7GRACE TANUI9,500,000J8PETER W.  KIMONDO9,500,000J12JACKSON MUGO & HU SHI WEN9,500,000J2BONIFACE C ONYANGO9,500,000J9ANTHONY OKARA10,000,000K8IDDAH & LUISE RASANGA10,000,000J10JACOB MASEGA KIPNGENG10,000,000K11ANTHONY WEKESA10,500,000K3MICHAEL LWOYELO10,500,000K12MARTIN MUCHIRI MWATHI10,500,000K10STELLA KIRIGO11,000,000Sub-Total 220,870,000BLOCK  6  L8BILAL SHUKRI ALI7,500,000L2LABAN KAROBIA GATHUNGU7,500,000M8JOHN M.  WAMBUGU7,500,000L10FRANCIS THUITA8,500,000L11BENSON WATHULI TUITA8,500,000L1HANA MUGESANI9,000,000M3PAUL MUGO CHEGE & MARY MUTHONI MUGO9,000,000L4LAWRENCE AMOLLO9,000,000M1NJAMBI INVESTMENTS9,000,000M4DENNIS G.  GITANGU9,000,000M6WILLIAM & MYRA AMBUNDO9,000,000L9GLADYS KAJUJU9,000,000M2GODMER ENTERPRISES9,500,000L5JAMILA A JUMA9,500,000M10FATUMA ABDALLAH MAMBEYA9,500,000M7HARON K.  & MARY J.  KIPLAGAT9,500,000M5JOEL M.  GITONGA9,500,000M9ALFRED OCHIEL OGOLA10,000,000L7DOLLY OTIENO10,000,000M12LUCY KINGARA10,000,000L6DAMARIS MOMANYI10,000,000L12JAMES FREDRICK OCHIENG10,500,000L3NURI KITEL11,000,000M11SEBASTIAN NJOROGE11,000,000Sub-Total 222,500,000   GRAND TOTAL 1,311,720,000    SUMMARYAmount (KES) BLOCK  1211,500,000 BLOCK  2214,850,000 BLOCK  3217,500,000 BLOCK  4224,500,000 BLOCK  5220,870,000 BLOCK  6222,500,000 TOTAL1,311,720,000
+
+Appendix 8: Phase 2 Sales Summary
+ Apt BlockApt No.PurchaserRelated PartyDate of Purchase as per AgreementI.R Number Cost of Apartment 53Kipevu10-06Anne Chepkemoi ChepkutoTBC15/Feb/18           15,000,000.00   10-06Anne Chepkemoi ChepkutoTBC15/Feb/18           15,000,000.00  Kilindini11-05Hassan Mohamed Swaleh ElyyanTBC3/Oct/18                   -             15,000,000.00 33Kipevu3-05Derick Epae KoliTBC27/Nov/18           14,000,000.00 41Kipevu7-01Richard Kiprotich KimettoTBC27/Nov/18           12,000,000.00 30Kipevu2-02Ibrahim Hassan AhmedTBC16/Apr/19           14,250,000.00 25Kilindini10-06Mohamed WanyamaTBC18/Apr/19           14,000,000.00  Kilindini6-01Mildred Akinyi Oboke & Tom Oboke NdhineTBC23/Apr/19                   -             13,500,000.00 20Kilindini9-05Stephen Odhiambo Otieno & Miriam Mwende MungutiTBC3/May/19           12,000,000.00 28Kipevu1-02Micheal Bizimungu MubareTBC3/May/19           13,500,000.00 54Kipepeo1-01Wanita Kyange MugesaniTBC6/May/19           13,875,000.00 55Kipepeo1-05Rose Agiza MugesaniTBC6/May/19           13,875,000.00  Kipevu1-05Rose Agiza MugesaniTBC6/May/19                   -             12,000,000.00  Kipevu1-01Wanita Kyange MugesaniTBC6/May/19                   -             12,000,000.00  Kipepeo1-01Wanita Kyange MugesaniTBC6/May/19                   -             12,000,000.00  Kilindini8-04Faith Jelagat Kimasar & Nicholas Chepchieng ChelungoTBC17/May/19                   -             12,000,000.00 66Kipepeo6-01Jet Properties & Apartments LimitedTBC23/May/19           12,000,000.00 39Kipevu6-02Anthony Kiporir BiegonTBC12/Sep/19           12,000,000.00  Kipevu9-05Anastancia Nerima OsundwaTBC12/Sep/19           15,000,000.00 7Kilindini4-05Dennis Mweandigha SholoTBC23/Sep/19           12,000,000.00 12Kilindini7-01Erick Odhiambo OchiengTBC26/Sep/19           12,000,000.00 79Kipepeo11-05Johnson Palmeris Ntete & Nelly PalmerisTBC29/Sep/19           12,000,000.00 21Kilindini9-06Ali Ahmed AliTBC30/Sep/19           13,800,000.00 15Kilindini7-05Judy Munyiva DavidTBC1/Oct/19           12,000,000.00 67Kipepeo6-05James Mwangi KiiruTBC1/Oct/19           12,000,000.00 31Kipevu3-01Joseph Asake OkocheTBC18/Oct/19           14,000,000.00 42Kipevu7-05Nancy MumoTBC18/Oct/19           15,000,000.00 24Kilindini10-05Julius Ngwae Kathuki & Veronica Wangare MwangiTBC14/Nov/19           13,500,000.00 6Kilindini3-05Ruth Nduku Munguti & Caleb Obunyali OmwibaliTBC17/Jan/20           15,000,000.00 26Kilindini11-01Edward Kagane KagoceTBC17/Jan/20           16,000,000.00   8-05Philip Mwangi NjakaiTBC20/Jan/20                   -             13,500,000.00 49Kipevu10-05Abraham CheruyiotTBC14/Feb/20           15,300,000.00 51Kipevu11-05GIgindar Singh & Gultar Kaur Gigindar Signh TBC27/Feb/20           15,000,000.00 74Kipepeo9-01Khadija Swaleh IssaTBC15/May/20           15,000,000.00   7-05Paul Kiplangat Kirui & Mary Cherono KiruiTBC15/May/20                   -             15,000,000.00 11Kilindini6-05Edward Kiprotich TuitoekTBC11/Jun/20           12,000,000.00 3Kilindini2-05Raphael Mwaniki NjeruTBC15/Jun/20           15,000,000.00 29Kipevu2-01Josephine Chepkemoi SirwayTBC18/Jun/20           12,000,000.00 77Kipepeo11-01Saleh Ahmed Zahoom Ahmed BajaberTBC22/Jun/20           12,000,000.00 35Kipevu5-01Peter Barasa MarutiTBC29/Jun/20           14,000,000.00  Kipepeo10-01Felistus Nthenya MbuvaTBC30/Jun/20                   -             12,000,000.00 4Kilindini3-01Lilian Ayuma ShigholiTBC20/Jul/20           14,000,000.00 22Kilindini10-01Lydia KanyekiTBC27/Jul/20           12,000,000.00 50Kipevu11-01Samuel Mwendwa MutiaTBC13/Aug/20           14,500,000.00  Kipepeo10-05David Muiu MutiaTBC13/Aug/20                   -             14,500,000.00  Kilindini11-06Mathew Mutua MutiaTBC13/Aug/20                   -             14,500,000.00   9-06Ruth Muthike MutiaTBC13/Aug/20                   -             14,500,000.00 61Kipepeo3-06Rajab Mohamed Karega & Salma Rambei LekuraruTBC14/Aug/20           15,300,000.00  Kilindini3-03Samir Adam AbdullaTBC4/Sep/20                   -             12,000,000.00 70Kipepeo7-06Haji Abdi IbrahimTBC6/Oct/20           15,100,000.00 64Kipepeo5-05Benard Kipchumba KiplagatTBC22/Oct/20           12,000,000.00 13Kilindini7-02Shaque Holdings LtdSubcontractor to the Project-QS29/Oct/20           14,000,000.00 19Kilindini9-04Thomas Koigi KahuriaSubcontractor to the Project-QS29/Oct/20           14,000,000.00  Kilindini9-02Thomas Koigi KahuriaSubcontractor to the Project-QS29/Oct/20           14,000,000.00  Kilindini9-03Kentmere Flora LimitedSubcontractor to the Project-QS30/Oct/20           14,000,000.00 44Kipevu8-05Dorcus Awour OmondiTBC10/Nov/20           15,000,000.00 58Kipepeo2-05Lynette Kavivi JonesTBC19/Nov/20           16,300,000.00 56Kipepeo2-01Haron Kiplagat & Mary Chepkonga KiplagatTBC2/Dec/20           13,000,000.00 40Kipevu6-06Christopher Kyalo MusembiTBC15/Feb/21           12,000,000.00 65Kipepeo5-06Rita NjiruTBC6/Mar/21           16,300,000.00 9Kilindini5-04Lydiah Olesi OjiamboTBC17/Mar/21           12,000,000.00 43Kipevu8-01Khan Tarah Begum & Shania Shakil Ahmed KhanTBC21/Mar/21           15,000,000.00 73Kipepeo8-06Emile HabimanaTBC28/May/21           14,800,000.00 18Kilindini9-01Nancy Chepkorir Kiget & Bobbi Bethel Chemutai OsogoTBC7/Jun/21           14,800,000.00  Kilindini8-06Blaise Andrew Omondi OdhiamboTBC20/Aug/21           13,800,000.00 37Kipevu5-06Idris Nazi Chikophe Mwanza & Prisca Ahiambo AmoloTBC14/Sep/21           13,800,000.00 62Kipepeo4-05Nancy Cherotich CherongisTBC5/Oct/21           13,500,000.00 10Kilindini5-05Peter MuneenoTBC13/Oct/21           13,500,000.00  kipevu10-01Fauzia Ahmed AbdallahTBC27/Oct/21                   -             14,000,000.00  Kipevu2-06Lydiah Olesi Ojiambo,Cedric Adongo Ojiambo and Derrick Omondi BweyaTBC29/Oct/21                   -             12,000,000.00 46Kipevu9-03Peter Vella LimitedTBC4/Nov/21           14,000,000.00 68Kipepeo6-06Emile HabimanaTBC4/Nov/21           14,000,000.00 72Kipepeo8-02Peter Vella LimitedTBC4/Nov/21           14,000,000.00 78Kipepeo11-03Peter Vella LimitedTBC4/Nov/21           14,000,000.00   10-04Peter Vella Limitedtbc4/Nov/21                   -             14,000,000.00  Kipepeo8-01Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00   9-03Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00  Kipevu9-04Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00 36Kipevu5-05Jaqueline Chitechi LichumaTBC16/Nov/21           15,300,000.00 52Kipevu11-06Imelda June Aluoch OgadaTBC16/Nov/21           15,000,000.00 57Kipepeo2-03Samir Adam AbdullaTBC19/Nov/21           14,300,000.00 45Kipevu8-06Mohammed Issak Sumar Yusuf Warwani & Abdulgafoor Ahmedali NuraniTBC24/Nov/21           14,000,000.00 59Kipepeo2-06Lydiah Olesi OjiamboTBC26/Nov/21           12,000,000.00 38Kipevu6-01Silas Kiplagat Kandie & Linda Kaptuya KomenTBC29/Nov/21           15,000,000.00 75Kipepeo9-05Dennis Allego BikamboTBC30/Nov/21           16,000,000.00 63Kipepeo5-04Semutwa Rumanzi AlbertTBC20/Jan/22           13,500,000.00 76Kipepeo10-06Shengz ZhangTBC29/Mar/22           15,100,000.00 27Kilindini5-01Daud Sheikh MohamedTBC11/Apr/22           13,500,000.00  Kilindini5-01Daud Sheikh MohamedTBC11/Apr/22                   -             13,500,000.00 16Kilindini7-06Kamau Kimani & Caroline Nguhi KamauTBC13/Apr/22           15,000,000.00 2Kilindini2-02Abdirizak Aden Abdow & Fowysiya Abdullahi JimcleTBC20/May/22           15,000,000.00 47Kipevu9-06Charanjit Suri-Deed of variationTBC25/May/22  5Kilindini3-04Dunia Siyad TubeTBC29/Jun/22           15,000,000.00 23Kilindini10-04Earnest Ogesi Kivai &  Catherine Kigasa KivaiTBC27/Sep/22           15,300,000.00  Kilindini1-04Ernest Pgesi Kivai & Catherine Kigasia KivaiTBC27/Sep/22                   -             15,300,000.00 32Kipevu3-02Nicholas Kibet Korir & Daphine KemuntoTBC28/Oct/22           15,000,000.00 71Kipepeo8-01Arif Said AntarTBC3/Nov/22           15,800,000.00  Kilindini8-01Arif Said AntarTBC3/Nov/22           15,800,000.00 69Kipepeo7-04Fauzia Fanny Osman & Samsam O MohamedTBC14/Nov/22           15,100,000.00 34Kipevu4-05Areca Residences Limited and/or its Nominees#REF!9/Jan/23           14,000,000.00 60Kipepeo3-02Richard N.Musyoka & Margaret N.MbwikaTBC19/Jan/23           16,300,000.00 8Kilindini5-02Muktar Mohamed OmarTBC15/Mar/23           15,100,000.00 17Kilindini8-02Zamzam Ali HassanTBC22/May/23           16,500,000.00 1Kilindini1-01Sofia Hussein AbukarTBC-108450/1          15,100,000.00 14Kilindini7-04Benjamin Christopher Okoth NyawadeSubcontractor to the Project-Triad Arch.-           14,000,000.00 48Kipevu10-02Xin YanTBC            15,100,000.00  Kilindini6.06Bernard Nyakundi Moindi & Margaret OyugiTBC            16,300,000.00  Kipevu9-09                      -                              -    Total                       -         1,484,200,000.00         
+
+Appendix 9(i): Sales Agreement 
+
+Page 350-357- Donald Omondi Deya
+Page 375-382 – Florence Chepkemoi
+Page 402-418 – Rael Chemutai
+Page 448-462 – Ali Aaltonenn
+
+
+
+Appendix 9(ii): List of Sales Agreement 
+
+SN.Apartment No.Contract DatePurchaser Name Purchase Price  BLOCK1     1A16 Mar 2013A and K Holdings Limited    7,500,000.00  2A210 Oct 2013Jules Investment Limited          7,500,000.00  3A330 Dec 2012Wali Mohamed Suleiman & Ashraf Seleiman Rahemtulla          7,500,000.00  4A510 Feb 2014MC Frys Limited          7,500,000.00  5A721 Oct 2016Donald Omondi Deya & Myra Jutiapa Deya          7,500,000.00           7,500,000.00 6B218 Dec 2012Nigat Ashraf Suleiman & Ashraf Suleiman Rahemtulla          7,500,000.00  7B318 Dec 2012Azmina Ashraf Suleiman & Ashraf Suleiman Rehemtulla          7,500,000.00  8B66 Mar 2013A and K Holdings Limited          7,500,000.00  9B94 Sep 2013Zipporah Mutindi Musau          7,500,000.00  10B1029 Jun 2015Florence Chepkemoi Cheptirgei       10,000,000.00  11B114 Mar 2015Eustace Mweri Mwangi       10,000,000.00  BLOCK 2     12C17 May 2013Rael Chemutai Choge          7,500,000.00           7,500,000.00 13C220 May 2014Diba Boru Jaldesssa          9,500,000.00  14C911 Oct 2011Ali Aaltonenn          9,000,000.00  15D621 Mar 2013Jacqueline Alice Akinyi Olang          7,500,000.00           7,500,000.00 16D919 Jul 2011Edwin Mathenge          8,350,000.00  BLOCK 3     17E227 Nov 2012Peter Wanjau Kimondo       10,000,000.00  18F427 Jun 2013Joseph Mochu Githere          8,000,000.00           8,000,000.00 19F510 Jun 2011Samuel Kiptoo Ng'eno          9,000,000.00  20E830 Dec 2011Nahid Dawood          7,500,000.00  21F718 Apr 2012Jaad Ali Mohamed El Busaidy          9,000,000.00  22F818 Apr 2012Jaad Ali Mohamed El Busaidy          9,000,000.00  23E103 Jun 2015Okomboli Ong'onga          9,500,000.00           9,500,000.00 24F1023 Jul 2014Charles Kyalo Munyao       10,500,000.00  25F1110 Dec 2014Ahmed Osman Maalim & Aisha Hassan Abdilatif          9,500,000.00           9,500,000.00 BLOCK 4     26G16 Nov 2013Johari Mzee Thabit       11,000,000.00  27G21 Oct 2012Crystal Impex Limited       10,000,000.00  28G33 Aug 2015Everlyn Wanjiru Ngunjiri          9,000,000.00  29G828 Jan 2010John K. Cherutich          8,500,000.00  30G92 Sep 2013Damaris Kemunto Oseko & Ken Shimomukai          8,500,000.00  31G1028 Mar 2014Albert Rumanzi Semutwa       10,000,000.00  32G1216 Apr 2012Charanjit Suri          9,000,000.00  33H15 Dec 2011Safiya Kuli Aden          9,000,000.00  34H221 Sep 2011Mohamed Maalim Ali          9,000,000.00  35H412 Oct 2016Mary Wanjiku Gatere          7,500,000.00           7,500,000.00 36H727 Dec 2012Cynthia Mathenge          8,500,000.00  BLOCK 5     37J510 Aug 2009Kenya Twelve Properties Limited          7,500,000.00  38J112 Oct 2012Faith Mbesa Kitheka          9,000,000.00  39K111 Sep 2014Godrey Muchira          8,500,000.00  40K324 Jul 2013Michael Amaya Lwoyelo       10,500,000.00  41K43 Feb 2010Mary Masitsa Muhadia          8,500,000.00  42K623 Aug 2010Susan Muthoni Gichuki          8,500,000.00  43K922 Apr 2013Joshua Khauka Togo          8,000,000.00  BLOCK 6     44L111 Sep 2014Wanita Kayange Mugesani          9,000,000.00  45L227 Oct 2011Laban Karobia Gathungu          7,500,000.00  46L55 Feb 2013Jamila Ahmed Juma          9,500,000.00  47M627 Nov 2012William Atito Ambundo & Myra Okwambitsa Ambundo          9,000,000.00  48M108 Sep 2015Fatuma Abdallah Mambeya          9,500,000.00  TOTAL       416,350,000.00  
+
+
+Appendix 9 iii): Average Sales Purchase Price Vs Actual Sales
+
+
+
+
+Appendix 10: Minutes (Dated 06/04/2017, 25/10/2018, & 04/07/2019) 
+
+
+
+
+
+Appendix 11: Summary of Sales Vs Approved Pricing 
+
+ Apt BlockApt No.PurchaserRelated PartyDate of Purchase as per AgreementI.R Number Cost of Apartment  Approved Pricing Minute Reference 53Kipevu10-06Anne Chepkemoi ChepkutoTBC15/Feb/18           15,000,000.00       15,000,000.00 6th April2017-24th October 2018- M/7/Bellavue 2017  10-06Anne Chepkemoi ChepkutoTBC15/Feb/18           15,000,000.00       15,000,000.00 6th April2017-24th October 2018- M/7/Bellavue 2017 Kilindini11-05Hassan Mohamed Swaleh ElyyanTBC3/Oct/18                   -             15,000,000.00       15,000,000.00 6th April2017-24th October 2018- M/7/Bellavue 201733Kipevu3-05Derick Epae KoliTBC27/Nov/18           14,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201841Kipevu7-01Richard Kiprotich KimettoTBC27/Nov/18           12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201830Kipevu2-02Ibrahim Hassan AhmedTBC16/Apr/19           14,250,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201825Kilindini10-06Mohamed WanyamaTBC18/Apr/19           14,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/2018 Kilindini6-01Mildred Akinyi Oboke & Tom Oboke NdhineTBC23/Apr/19                   -             13,500,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201820Kilindini9-05Stephen Odhiambo Otieno & Miriam Mwende MungutiTBC3/May/19           12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201828Kipevu1-02Micheal Bizimungu MubareTBC3/May/19           13,500,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201854Kipepeo1-01Wanita Kyange MugesaniTBC6/May/19           13,875,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201855Kipepeo1-05Rose Agiza MugesaniTBC6/May/19           13,875,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/2018 Kipevu1-05Rose Agiza MugesaniTBC6/May/19                   -             12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/2018 Kipevu1-01Wanita Kyange MugesaniTBC6/May/19                   -             12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/2018 Kipepeo1-01Wanita Kyange MugesaniTBC6/May/19                   -             12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/2018 Kilindini8-04Faith Jelagat Kimasar & Nicholas Chepchieng ChelungoTBC17/May/19                   -             12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201866Kipepeo6-01Jet Properties & Apartments LimitedTBC23/May/19           12,000,000.00       13,875,000.00 25t October 2018-4th July 2019-M8/47/Bellavue/201839Kipevu6-02Anthony Kiporir BiegonTBC12/Sep/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipevu9-05Anastancia Nerima OsundwaTBC12/Sep/19           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20197Kilindini4-05Dennis Mweandigha SholoTBC23/Sep/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201912Kilindini7-01Erick Odhiambo OchiengTBC26/Sep/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201979Kipepeo11-05Johnson Palmeris Ntete & Nelly PalmerisTBC29/Sep/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201921Kilindini9-06Ali Ahmed AliTBC30/Sep/19           13,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201915Kilindini7-05Judy Munyiva DavidTBC1/Oct/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201967Kipepeo6-05James Mwangi KiiruTBC1/Oct/19           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201931Kipevu3-01Joseph Asake OkocheTBC18/Oct/19           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201942Kipevu7-05Nancy MumoTBC18/Oct/19           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201924Kilindini10-05Julius Ngwae Kathuki & Veronica Wangare MwangiTBC14/Nov/19           13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20196Kilindini3-05Ruth Nduku Munguti & Caleb Obunyali OmwibaliTBC17/Jan/20           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201926Kilindini11-01Edward Kagane KagoceTBC17/Jan/20           16,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019  8-05Philip Mwangi NjakaiTBC20/Jan/20                   -             13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201949Kipevu10-05Abraham CheruyiotTBC14/Feb/20           15,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201951Kipevu11-05GIgindar Singh & Gultar Kaur Gigindar Signh TBC27/Feb/20           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201974Kipepeo9-01Khadija Swaleh IssaTBC15/May/20           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019  7-05Paul Kiplangat Kirui & Mary Cherono KiruiTBC15/May/20                   -             15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201911Kilindini6-05Edward Kiprotich TuitoekTBC11/Jun/20           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20193Kilindini2-05Raphael Mwaniki NjeruTBC15/Jun/20           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201929Kipevu2-01Josephine Chepkemoi SirwayTBC18/Jun/20           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201977Kipepeo11-01Saleh Ahmed Zahoom Ahmed BajaberTBC22/Jun/20           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201935Kipevu5-01Peter Barasa MarutiTBC29/Jun/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipepeo10-01Felistus Nthenya MbuvaTBC30/Jun/20                   -             12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20194Kilindini3-01Lilian Ayuma ShigholiTBC20/Jul/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201922Kilindini10-01Lydia KanyekiTBC27/Jul/20           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201950Kipevu11-01Samuel Mwendwa MutiaTBC13/Aug/20           14,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipepeo10-05David Muiu MutiaTBC13/Aug/20                   -             14,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini11-06Mathew Mutua MutiaTBC13/Aug/20                   -             14,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019  9-06Ruth Muthike MutiaTBC13/Aug/20                   -             14,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201961Kipepeo3-06Rajab Mohamed Karega & Salma Rambei LekuraruTBC14/Aug/20           15,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini3-03Samir Adam AbdullaTBC4/Sep/20                   -             12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201970Kipepeo7-06Haji Abdi IbrahimTBC6/Oct/20           15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201964Kipepeo5-05Benard Kipchumba KiplagatTBC22/Oct/20           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201913Kilindini7-02Shaque Holdings LtdSubcontractor to the Project-QS29/Oct/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201919Kilindini9-04Thomas Koigi KahuriaSubcontractor to the Project-QS29/Oct/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini9-02Thomas Koigi KahuriaSubcontractor to the Project-QS29/Oct/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini9-03Kentmere Flora LimitedSubcontractor to the Project-QS30/Oct/20           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201944Kipevu8-05Dorcus Awour OmondiTBC10/Nov/20           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201958Kipepeo2-05Lynette Kavivi JonesTBC19/Nov/20           16,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201956Kipepeo2-01Haron Kiplagat & Mary Chepkonga KiplagatTBC2/Dec/20           13,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201940Kipevu6-06Christopher Kyalo MusembiTBC15/Feb/21           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201965Kipepeo5-06Rita NjiruTBC6/Mar/21           16,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20199Kilindini5-04Lydiah Olesi OjiamboTBC17/Mar/21           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201943Kipevu8-01Khan Tarah Begum & Shania Shakil Ahmed KhanTBC21/Mar/21           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201973Kipepeo8-06Emile HabimanaTBC28/May/21           14,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201918Kilindini9-01Nancy Chepkorir Kiget & Bobbi Bethel Chemutai OsogoTBC7/Jun/21           14,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini8-06Blaise Andrew Omondi OdhiamboTBC20/Aug/21           13,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201937Kipevu5-06Idris Nazi Chikophe Mwanza & Prisca Ahiambo AmoloTBC14/Sep/21           13,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201962Kipepeo4-05Nancy Cherotich CherongisTBC5/Oct/21           13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201910Kilindini5-05Peter MuneenoTBC13/Oct/21           13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 kipevu10-01Fauzia Ahmed AbdallahTBC27/Oct/21                   -             14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipevu2-06Lydiah Olesi Ojiambo,Cedric Adongo Ojiambo and Derrick Omondi BweyaTBC29/Oct/21                   -             12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201946Kipevu9-03Peter Vella LimitedTBC4/Nov/21           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201968Kipepeo6-06Emile HabimanaTBC4/Nov/21           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201972Kipepeo8-02Peter Vella LimitedTBC4/Nov/21           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201978Kipepeo11-03Peter Vella LimitedTBC4/Nov/21           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019  10-04Peter Vella Limitedtbc4/Nov/21                   -             14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipepeo8-01Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019  9-03Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipevu9-04Peter Vella LimitedTBC4/Nov/21                   -             14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201936Kipevu5-05Jaqueline Chitechi LichumaTBC16/Nov/21           15,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201952Kipevu11-06Imelda June Aluoch OgadaTBC16/Nov/21           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201957Kipepeo2-03Samir Adam AbdullaTBC19/Nov/21           14,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201945Kipevu8-06Mohammed Issak Sumar Yusuf Warwani & Abdulgafoor Ahmedali NuraniTBC24/Nov/21           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201959Kipepeo2-06Lydiah Olesi OjiamboTBC26/Nov/21           12,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201938Kipevu6-01Silas Kiplagat Kandie & Linda Kaptuya KomenTBC29/Nov/21           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201975Kipepeo9-05Dennis Allego BikamboTBC30/Nov/21           16,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201963Kipepeo5-04Semutwa Rumanzi AlbertTBC20/Jan/22           13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201976Kipepeo10-06Shengz ZhangTBC29/Mar/22           15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201927Kilindini5-01Daud Sheikh MohamedTBC11/Apr/22           13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini5-01Daud Sheikh MohamedTBC11/Apr/22                   -             13,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201916Kilindini7-06Kamau Kimani & Caroline Nguhi KamauTBC13/Apr/22           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20192Kilindini2-02Abdirizak Aden Abdow & Fowysiya Abdullahi JimcleTBC20/May/22           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201947Kipevu9-06Charanjit Suri-Deed of variationTBC25/May/22        15,000,000.00 4th of July  2019/ Min No 9/54/20195Kilindini3-04Dunia Siyad TubeTBC29/Jun/22           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201923Kilindini10-04Earnest Ogesi Kivai &  Catherine Kigasa KivaiTBC27/Sep/22           15,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini1-04Ernest Pgesi Kivai & Catherine Kigasia KivaiTBC27/Sep/22                   -             15,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201932Kipevu3-02Nicholas Kibet Korir & Daphine KemuntoTBC28/Oct/22           15,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201971Kipepeo8-01Arif Said AntarTBC3/Nov/22           15,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini8-01Arif Said AntarTBC3/Nov/22           15,800,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201969Kipepeo7-04Fauzia Fanny Osman & Samsam O MohamedTBC14/Nov/22           15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201934Kipevu4-05Areca Residences Limited and/or its Nominees#REF!9/Jan/23           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201960Kipepeo3-02Richard N.Musyoka & Margaret N.MbwikaTBC19/Jan/23           16,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20198Kilindini5-02Muktar Mohamed OmarTBC15/Mar/23           15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201917Kilindini8-02Zamzam Ali HassanTBC22/May/23           16,500,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/20191Kilindini1-01Sofia Hussein AbukarTBC-108450/1          15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201914Kilindini7-04Benjamin Christopher Okoth NyawadeSubcontractor to the Project-Triad Arch.-           14,000,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/201948Kipevu10-02Xin YanTBC            15,100,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kilindini6.06Bernard Nyakundi Moindi & Margaret OyugiTBC            16,300,000.00       15,000,000.00 4th of July  2019/ Min No 9/54/2019 Kipevu9-09                      -                              -      Total                       -         1,484,200,000.00  1,589,250,000.00              105,050,000.00  
+
+Appendix 12- Deposits /Purchase Refunds 
+Phase 1: Deposits and Apartment Purchase Overpayment Refunds
+ParticularsDateNameReference No. Amount Apartment No.Apartment Purchase Deposit Refund16-Nov-10Joshua Mugo MuiruriChq No:000152              850,000.00 Not providedApartment Purchase Deposit Refund22-May-13Julius MulewaChq No:227         1,500,000.00 Not providedHouse Rent Deposit Refund6-Aug-14Mr. Idris M. AhmedChq No:000282              145,000.00 Not providedHouse Rent Deposit Refund25-Aug-15Jane OriyaChq No:318              100,000.00 C2, C12, D10 & J10House Rent Deposit Refund26-Aug-15Rukia Diba BoruChq No:000310              100,000.00 C11, E1, M10House Rent Deposit Refund27-Aug-15Richard N. KimithiChq No:000317              100,000.00 C2, C12, D10 & J10House Rent Deposit Refund28-Aug-15Jacob Masega Kipng'enoChq No:000316              100,000.00 C2, C12, D10 & J10House Rent Deposit Refund15-Sep-15Mohamed Sadiki AliChq No:000322              100,000.00 C10, C12House Rent Deposit Refund16-Sep-15Isaac mwangi MuchokiChq No:000323              100,000.00 C10, C12House Rent Deposit Refund28-Sep-15Fatuma Abdallah MambeyaChq No:000311              100,000.00 C11, E1, M10House Rent Deposit Refund10-Dec-15Pak Spares LimitedChq No:000328              100,000.00 Not providedHouse Rent Deposit Refund10-Dec-15Judy Munyiva BavidChq No:000329              300,000.00 Not providedHouse Rent Deposit Refund10-Dec-15Kobenslaw tradersChq No:000333              100,000.00 G3House Rent Deposit Refund10-Dec-15Purity Mwende MutetiChq No:000334              100,000.00 L1House Rent Deposit Refund10-Dec-15Okomboli Ong'ong'a Chq No:335              100,000.00 E11House Rent Deposit Refund11-Dec-15Michael Otieno MadungChq No:000330              100,000.00 Not providedHouse Rent Deposit Refund31-Mar-16Stella KirigoChq No:000342              100,000.00 C10, C12Apartment Purchase Deposit Refund15-Apr-16Judy Munyiva BavidChq No:000344              250,000.00 C10, C12House Rent Deposit Refund9-Jun-16Nicholas Chepchieng ChelugoChq No:000341              100,000.00 C10, C12Apartment Purchase Deposit Refund28-Jun-16Mwagiya AgencieChq No:000364              900,056.00 K1Apartment Purchase Deposit Refund28-Jun-16Rashid Bavu KureraChq No:000358              768,000.00 A9Apartment Purchase Deposit Refund29-Jun-16Stella Wambui MuhoroChq No:000359              500,000.00 M10House Rent Deposit Refund26-Jul-16Julius Kyalo MutwiiChq No:000362              100,000.00 K12Apartment Purchase Deposit Refund11-Aug-16Justus Muendo SimonChq No:000371              250,000.00 C1Apartment Purchase Deposit Refund11-Aug-16Rashid Bavu KureraChq No:000373              750,000.00 A9Apartment Purchase Deposit Refund27-Oct-16Mwagiya AgencieChq No:000374              870,000.00 K1Apartment Purchase Deposit Refund27-Oct-16Justus Muendo SimonChq No:000375              580,000.00 C1Apartment Purchase Overpayment Refund11-Aug-16Isaac Muchoki MwangiChq No:000372              580,000.00 A8Apartment Purchase Deposit Refund24-Apr-14Mr. Clive TubmanChq No:000267                 90,760.00 B8Apartment Purchase Deposit Refund8-Jan-15Zipporah MusauChq No:000291                 50,000.00 B9Apartment Purchase Deposit Refund15-May-15Henry E. NakayaChq No:297              900,000.00 H4Apartment Purchase Deposit Refund2-Jun-15Juliet KorosoChq No:000298              750,000.00 F10Apartment Purchase Deposit Refund2-Jun-15Justus Muendo SimonChq No:000299              668,000.00 A9Apartment Purchase Deposit Refund21-Dec-15Henry E. NakayaChq No:000339              900,000.00 Not providedTotal         13,101,816.00  
+
+
+Phase 2: Deposits and Apartment Purchase Overpayment Refunds
+ExpensesPayment DescriptionBatch/Reference NumberDatePayeeCheque Number Kshs. Amounts Deposit Refunds to PurchasersHouse Purchase Deposit RefundPT_1046/20/16Rashid Bavu Kurera358          768,000.00 Deposit Refunds to PurchasersHouse Purchase Deposit RefundPT_1036/10/16Stella Wambui Muhoro359          500,000.00 Deposit Refunds to PurchasersHouse Purchase Deposit RefundPT_1026/10/16Mwagiya Agencies 360          900,056.00 Deposit Refunds to PurchasersRent Deposit Refund_K12PT_1006/20/16Julius Kyalo Mutwii362          100,000.00 Deposit Refunds to PurchasersDeposiit RefundFin.Mtg_316/23/16Mwagiya Agencies 364          900,056.00 Deposit Refunds to PurchasersDeposit RefundFin.Mtg_268/8/16Justus Muendo371          250,000.00 Deposit Refunds to PurchasersDeposit RefundFin.Mtg_258/8/16Rashid Bavu Kurera373          750,000.00 Deposit Refunds to PurchasersDeposit Refunds for Phase IFin.Mtg_1810/25/16Mwagiya Agencies 374          870,000.00 Deposit Refunds to PurchasersDeposit RefundFin.Mtg_1910/24/16Justus Muendo Simon375          580,000.00 Deposit Refunds to PurchasersDeposit Refund126_25/26/18Teresia Neb Nyabokei542      6,412,500.00 Deposit Refunds to PurchasersDeposit Refund148_77/19/18Teresa Nyaboke Nebi542      6,412,500.00 Deposit Refunds to PurchasersDeposit Refund148_66/26/18Teresa Nyaboke Nebi543      6,412,500.00 Deposit Refunds to PurchasersDeposit Refund891_168/8/18Jayne Vulimu Lidede561      2,025,000.00 Deposit Refunds to PurchasersDeposit Refund891_189/5/18Jayne Vulimu Lidede568      2,025,000.00 Deposit Refunds to PurchasersDeposit Refund891_199/5/18Waminneh Investment Ltd569      1,387,500.00 Deposit Refunds to PurchasersDeposit Refund891_2510/1/18Jayne Vulimu Lidede586      2,025,000.00 Deposit Refunds to PurchasersDeposit Refund891_2610/1/18Waminneh Investment Ltd587      1,387,500.00 Deposit Refunds to PurchasersDeposit Refund891_3912/8/18Waminneh Investment Ltd620      1,387,500.00 Deposit Refunds to PurchasersDeposit Refund891_4012/8/18Jayne Vulimu Lidede621      2,025,000.00 Deposit Refunds to PurchasersDeposit Refund129_612/15/19Waminneh Investment Ltd650      1,387,500.00          38,505,612.00 
+
+
+
+
+
+
+
+Appendix 13: Request for Projects Clarification Letter (dated 16th November, 2023)
+
+
+
+
+
+Appendix 14: Minutes that changed the budget (dated 19th October, 2016 with revised budget signed on 04th November, 2016
+
+
+
+
+Appendix 15: Request for Proposal (RFP)
+TOR – Page 55-57 of the RFP Document
+
+
+
+
+Appendix 16: Appointment Letter
+
+
+
+
+
+
+Appendix 17: Amendment to the JVA Letter dated 16th October, 2021 from SDCL to KPA Pension Scheme
+
+
+
+
+
+Appendix 18: Amendment to the JVA Letter dated 21st October, 2021 from KPA Pension Scheme to SDCL
+
+
+
+
+Appendix 19: Scheme Trustees 
+
+i) At the Inception of the Project 
+
+
+
+ii) After Inception of the Project 
+
+
+
+
+ 
+
+Appendix 20: List of Minutes
+
+
+
+
+
+
+
+
+
+
+
+Appendix 21: Interview Results 
+
+INTERVIEW RESULTS
+
+Interviewee Comments KPAPS Staff 1. Are there internal control procedures in place at the scheme?
+* There were no documented policies during the project period. New policies were developed by November 2022. 
+* The SPV committee was tasked to receive any requests for payments for onward approval by a board sub-committee during the project period.
+* The new policies are to be shared with the auditors.
+* Initially, the project was to be a Joint venture, this was however changed in 2022 and the project converted to a KPA pension scheme project.
+
+2. Were there cash payment controls?
+* There were no controls in place, however, cash payments were only made between 2009 – 2017.
+* Allowances and per Diems were paid in cash according to KPA rates.
+
+3. Unsupported Payments
+* The administrators were not in a position to answer on issues to do with phase 1 of the project.
+* A list of the unsupported payments is to be sent to the administrators for their comments. However, they indicated that the scheme only signed an agreement with the main project contractor. The main contactor signed agreements with the sub-contractors. Any certificates used for payment were to be sent to the main contractor.
+4. Completeness of the documents provided to the auditors 
+* The auditors noted incompleteness of the records provided and therefore agreed to provide the staff with the magnitude of the differences witnessed.
+ 
+5. Project Cashbook
+* The project did not maintain a cashbook. Only a cheque register was maintained.
+* The management felt that they have been undertaking project reconciliation with the scheme which had been shared earlier. 
+* The management were not aware of the involvement of the Lawyers receiving money on behalf of some purchasers. According to them the purchasers who passed their funds through the lawyers had the lawyers acting their behalf.
+* The legal officer indicated that there was no JVA for the project but rather a contract for the project.
+
+6. What prompted the scheme to start the project and was there a feasibility study done
+* No feasibility study was carried out.
+* The project was to enhance the liquidity of the scheme since most of the scheme funds were tied in properties given by the sponsor.
+
+7. The procurement process was not complete, whether the team was aware of that?
+* The staff were not aware of the procurement process and how the Triad was selected.
+
+8. Who between southern development and Pinnacle were to be directly in charge of the project
+* The team did not provide an answer on how Pinnacle took leadership of the project yet the consortium was Southern Development Limited.
+
+9. Project Budget
+* The project budget was based on the approved budget for the construction and was not reviewed.
+* The role of preparing the budget was with the project manager.
+
+10. Tenancy Agreement
+* The estate was under the management of Infinity management until November 2023.
+* Infinity did not handover all the rent agreements.
+* The available contracts are from January 2023.
+* The scheme has however made a claim from infinity for rent collected.
+Caroline Kodo – Former Administrator  a) Administrator from 2017 to April 2022.
+b) In charge of the scheme activities. 
+c) Involved in project as signatory up to April 2019 and was removed from that position. 
+d) Could not understand the reasons behind her removal. 
+e) Mentioned of the books being kept which were not in place 
+f) The decision to continue was based on advisory opinion from Kaplan and Stratton.
+g) The trustees were signatories and could not address the cause of unsupported payments as she was not involved in process of payments. Instructions to make payments coming from trustees.
+h) Raised concerns with the Shelter Afrique loans and the audit report which was not supported by any documents. 
+i) Preferred the project to continue after ascertaining the performance of phase 1.
+j) The scheme agreed that the Project to be charged 13% or market rate. 
+k) The trustee could have done better than the leadership witnessed in the project. 
+
+General Comments 
+* The administrator should have had a system of maintaining records at the Scheme from phase 1 and 2. Salim Juma- Former Trustee and Chairman a) From 2017 to 2023.
+b) Understood the role of a trustee in managing the activities of the scheme. 
+c) Joined the Scheme after retirement and found the Joint venture agreement in existence.
+d) Felt that there was failure from the management /administrator to provide necessary support. 
+e) Attempted to review the joint venture but faced resistant from the Project partners.
+f) The advisory opinion deterred them from terminating the contract.
+g) Decided for the KCB loan because the developer wanted the Scheme title deeds original documents for a loan with Equity. This could have jeopardized the Scheme assets. 
+h) The decision to secure a loan from the KCB was made by the Board. 
+i) The project was fairly well managed and was geared to achieving its goals before he covid struct.
+j) The Trustees was not aware of the transactions for phase 2 being handled by the lawyers - Robson Harris.
+
+General Comments:
+a) The board did not involve in reviewing the performance of the project. 
+b) Trustees were not receiving any report on how the collection were banked in which bank account.
+c) No independent system was in place to review the report presented by the team, thus casting doubts on the Scheme representatives.Tsuma Mwanza – Accountant a) Involved on the part of the scheme in preparation and facilitating of payments. 
+b) Reviewed all payments before the Board approved. 
+c) Worked closely with the Project developer.
+d) Sits in the SPV committee of the project.
+e) Was involved in the report preparation which we assume was part of the minute’s financial deliberations.
+f) Could not confirm records kept within the scheme 
+g) The documents for payments were supposed to be maintained but could not be found.
+h) The reports for the SPV were not included in the Trustees board meeting. 
+i) No reconciliation was availed when sought from him. 
+j) Besides the advisory opinion confirmed the absence of any feasibility study being carried out.
+ 
+General Comments 
+a) As the Scheme accountant in charge of the projects – should have preserved all the documents within the scheme. 
+b) Enhanced filing of the records within the scheme. 
+c) Provided regular reconciliation between the Scheme injections on the project. 
+Raymond Ogola- Accountant a) Involved in the Scheme 2014-2018.
+b) Reporting directly to the administrator on the scheme activities, as the principal accountant.  
+c) Was not involved with the project. 
+d) The financial report for the Scheme did not include project activities. 
+e) The Scheme had quarterly financial reports.
+f) The project activities were not reviewed by the principal accountant. 
+
+General Comments 
+* Was not involved in the project, as there was an accountant in charge of the project reporting directly to the Administrator.
+Paul Mwaka - Trusteea) Joined 2021 as elected trustee.
+b) Was involved in the SPV committee.
+c) The project was executed on the basis of the contract. 
+d) Knew about an attempt to suspend the contract bit were restrained from the advisory opinion.
+e) It was not initially easy to understand the project. 
+f) The project should have been carried out by the Scheme and nota as a joint venture.
+g) Attempt to change the JV was resisted by the Developer.
+h) The relationship between the SPV and the Southern development could not be explained when sought advice.Alex Ole Leteipana) Trustee from 2005-2011, and 2017 -2023.
+b) Nominated by the sponsor.
+c) Could not recall why the contract was not changed, considering that the selection of the tenders was carried out in the year 2005, and the contract drawn 2009.
+d) The nomination of the SDL could not be explained as the tender document was on Triad with other members of the consortium.
+e) Noted that reports were given but could not explain whether for phase 1 or 2. We noted that phase 2 had regular reports provided.
+f) The board had wished to change the JVA, but faced resistance from the Developer.
+g) The developer wanted to rely on the Scheme assets records to secure a loan. 
+h) Noted that sales were updated. 
+i) The purpose of the project was to make money. 
+j) Felt that the Board should have enhanced their role of monitoring the project, promptly to address the weaknesses noted. Ferdinard Malumbo a) Joined the Scheme 2021 January and become a member of the SPV in the month of March 2021
+b) Explained in detail why the contractor could not meet the deadlines
+c) Believed that the units were sold in line with the prices set earlier 
+d) There was no disparity in terms of prices against the set targets being highlighted to them, as such the units were sold based on the price set 
+e) Knew that cash buyers were given better deals than the mortgage purchasers 
+f) Lamented abouts records that were lacking from the Scheme. 
+g) Effective decision was hampered by lack of records from the scheme 
+h) Lack of documents was blamed on the administrator who was there before she left 
+i) Felt that the changes witnessed could impact on the scheme profitability 
+j) There was need for the Scheme to have finished phase 1 first before they could start phase 2. Commingling of the project activities messed up in assessing the performance 
+k) The developer had wanted a loan relying on the Scheme title deeds 
+l) There is need to undertake audit before the any phase of the project was to be executed 
+
+
+
+
+
+
+Appendix 22: List of Trustees/Staff Interviewed
+
+INTERVIEWEES LIST
+
+TRUSTEES
+  Trustees/Staff SCHEDULED DATE & TIMEDATE OF 
+APPOINTMENT  DATE OF 
+  RETIREMENTTelephone  Email   Status COMMENTS1ALBERT CHAUREMBO MUMBA2002  7/27/2011 achaurembom@gmail.comDECEASED2BROWN MBAI M'MBAI M'MATA ONDEGO2002      No Contacts 3MARY WAIRIMU NGANGA12/27/2001  7/27/2010   No Contacts 4GEOFFREY LANGAT12/27/2001  4/13/2011254722369890  No Response5GEORGINA IFIRE8/5/2024
+10: 00 AM12/27/2001   254720999452gifirew@gmail.com No Response6DOMINIC ALLOISE GEORGE OMENYE12/27/2001     DECEASED 20227KENNETH KAUNDA KIBWANA12/27/2001       No Contacts 8CHARLES MUSYOKI MUOKI3/25/2003      No Contacts 9ALEX OLE LETEIPAN8/5/2024
+10: 30 AM2005  7/27/2011254720605516aleteipan@gmail.comreappointed in oct 2017 to 12 may 2023Interview held10MAJENGO WA-KATANA WARA8/5/2024
+11: 00 AM2006  2013254733934105mwara115@gmail.com Address not able to receive mail/address couldn’t be found11GICHIRI NDUA   3/8/2010254721170000  No Response12MARGARET THARA NYAGA   4/30/2011254722318618  No Response13VINCENT MNYIKA WA-KAYANDA5/15/2008  2/10/2017  DECEASED 202314JAMES MULEWA12/8/2008  3/8/2010254733792034  No Response15KHADIJA KARIM2/20/2009  6/4/2019   No Contacts16CONSTANCE ROSE MCHARO6/5/2024
+12: 00 NOON6/5/2011   2547116872225cmcharo@kpa.co.ke No Response17ALPHAEUS ONYANGO ALUOCH6/5/2011   254723437964aaluoch@kpa.co.ke No Response18JUSTUS OMAE NYARANDI6/5/2024
+10: 30 AM7/27/2011  2/26/2016254725226222omaenyarandi@gmail.comreappointed in May 2023Replied - On Monday 6-10 May 2024, I will be held in a week-long Board Strategy Meeting 19FLORA NDUKU MUTISO7/27/2011      20AMANI KOMORA8/5/2024
+11: 30 AM1/9/2014  12/6/2019254723286002akomora@ymail.com No Response21CATHERINE MTURI WA-IRI1/9/2014  5/30/2018254722410964  No Response22MOSES OTIENO6/5/2024
+11: 00 AM5/27/2014  12/18/2020254728630204MOTIENO@KPA.CO.KEstill in employment in KPANo Response23MAURICE MUNYAO5/27/2014  12/18/2020254722369628  No Response24HARRISON LUSIGI5/27/2014  12/18/2020254723673550  No Response25YOBESH OYARO6/5/2024
+11: 30 AM3/31/2016  5/13/2022254725339444onwonga@gmail.com No Response26VALENTINE MWAISAKA3/31/2016  1/11/2018   No Contacts27SALIM JUMA CHINGABWI3/5/2024
+10: 00 AM2/10/2017  5/12/2023254708075028schingabwi@gmail.comre appointed in oct 2017 to May 2023Interview held28Dr.Arch D Manduku5/30/2018  1/11/2019   No contacts 29DANIEL OGUTU5/14/2019  5/13/2022254722252395  No Response30DELILAH KADZO NGALA3/5/2024
+10: 30 AM5/14/2019  1/12/2022254722841496dkngala60@gmail.com No Response31FERDINAND MALUMBO3/5/2024
+11: 00 AM12/18/2020  12/18/2023254720433588fmalumbo@kpa.co.keRe-electedInterview held.32PAUL MWAKA3/5/2024
+11:30 AM12/18/2020  12/18/2023254722789385pmwaka@kpa.co.ke Interview held33VIOLET MUGAMBI3/5/2024
+12: 00 NOON12/18/2020  12/18/2023254722837021mugambiviolet@gmail.comRe-electedNo Response34CONRAD THORPE6/5/2024
+10: 00 AM4/30/2022  1/23/2023254720543667conrad.thorpo@sf-group.com Mail bounced  SECRETARIES TO THE BOARD  MUTHONI GATERE7/5/2024
+02:00 PM   10/15/2015254722847944nyagatere@gmail.comRetired on 2016No ResponseSTEPHEN KYANDIH7/5/2024
+12: 30 PM10/16/2015  2021254721418324SKYANDIH@KPA.CO.KE or syandih@gmail.comstill in active employment in KPANo Response        
+FINANCIAL STAFF
+NAMETELPHONEEMAILNOTESCOMMENTSSIMON NYAKUNDI254725470123 Alternative contact 254703511611Not Relevant RAYMOND OGOLA7/5/2024
+11: 30 AM254724985973rogola@kpa.co.kestill in active employment KPAInterview held CAROLINE KODO7/5/2024
+10: 30 AM254720272709kodocw@centralbank.go.keLeft KPAAvailability confirmed - Tuesday 7/5/24, 11:00 AM
+Teams – INTERVIEW HELDTSUMA MWANZA7/5/2024
+11: 00 AM254710391189tmwanza@kpa.co.kestill in active employment KPAAvailability confirmed - Tuesday 7/5/24, 11:00 AM
+Phone – changed to 10:00 AMHERBERT KACHILLA7/5/2024
+12: 00 NOON254725585336hkachila@kpa.co.kestill in active employment KPANot relevant MAURICE AMAHWA254722682514 Retired in march 2017No Response
+NB: The ones called were very negative on how we got their numbers
+
+
+
+
+
+Appendix 23: Correspondence from Nyiha Mukoma & Company Advocates 
+
+
+
+
+
+
+
+Appendix 24: Correspondence from Robson Harris Advocates LLP
+
+
+12
+
+
+
+
+
+
+
+
+
+18
+
+
+
